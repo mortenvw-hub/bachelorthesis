@@ -1,0 +1,8 @@
+<http://uri.gbv.de/organization/isil/DE-104> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-104@ls> .
+<http://uri.gbv.de/organization/isil/DE-104@ls> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "51.80104" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "10.34114" .
+<http://uri.gbv.de/organization/isil/DE-104@ls> <http://xmlns.com/foaf/0.1/name> "Lesesaal" .
+<http://uri.gbv.de/organization/isil/DE-104@ls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-104@ls> <http://purl.org/dc/elements/1.1/description> "Standort: Universit\u00E4tsbibliothek, 1. Stock." .
+<http://uri.gbv.de/organization/isil/DE-104@ls> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-104> .

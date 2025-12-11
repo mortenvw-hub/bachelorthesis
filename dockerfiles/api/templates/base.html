@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="{{url_for('static',filename='codemirror/codemirror.css')}}" rel="stylesheet">
+    <link href="{{url_for('static',filename='yasgui.min.css')}}" rel="stylesheet">
+    <link href="{{url_for('static',filename='style.css')}}" rel="stylesheet">
+    <link rel="icon" href="{{url_for('static',filename='favicon.ico')}}" sizes="32x32" />
+    <link rel="icon" href="{{url_for('static',filename='favicon.ico')}}" sizes="192x192" />
+    <link rel="apple-touch-icon" href="{{url_for('static',filename='favicon.ico')}}" />
+    <script src="{{url_for('static',filename='jquery-3.7.1.slim.min.js')}}"></script>
+    <script src="{{url_for('static',filename='codemirror/codemirror.js')}}"></script>
+    <script src="{{url_for('static',filename='codemirror/runmode.js')}}"></script>
+    <script src="{{url_for('static',filename='codemirror/javascript.js')}}"></script>
+    <script src="{{url_for('static',filename='common.js')}}"></script>
+    <meta name="msapplication-TileImage" content="{{url_for('static',filename='favicon.ico')}}" />
+    <title>LOD@VZG Graph: {{title}}</title>
+  </head>
+  <body>  
+    <header>
+    	<nav class="navbar">
+    		<div>
+    			<div class="navbar-brand">
+	        		<a href="{{url_for('index')}}" class="navbar-title"><span><strong>uri.gbv.de</strong></span></a>
+    			</div>
+    			<div class= "nav-list">
+    				<ul>
+        			<li>
+          			{% if request.path.startswith("/sparql") %}
+            		<a href="{{url_for('sparql_form')}}" class="nav-hover"><span><strong>SPARQL</strong></span></a>
+          			{% else %}
+            		<a href="{{url_for('sparql_form')}}" class="nav-hover"><span>SPARQL</span></a>
+          			{% endif %}
+        			</li>
+        			<li>
+          			{% if request.path.startswith("/collection") %}
+            		<a href="{{url_for('collection')}}" class="nav-hover"><span><strong>Collections</strong></span></a>
+          			{% else %}
+            		<a href="{{url_for('collection')}}" class="nav-hover"><span>Collections</span></a>
+          			{% endif %}
+        			</li>
+      			</ul>
+    			</div>
+    		</div>
+    	</nav>	    	
+    </header>   
+    <main>
+      {% block content %} {% endblock %}
+    </main>
+    <footer>
+      <div style="float:right;">
+        <a href="https://github.com/mortenvw-hub/bachelor-kg">sources</a>
+        |
+        <a href="https://github.com/mortenvw-hub/bachelor-kg/issues">issues</a>
+      </div>
+      <a href="https://www.gbv.de/impressum">Verbundzentrale des GBV (VZG)</a>
+    </footer>
+  </body>
+</html>

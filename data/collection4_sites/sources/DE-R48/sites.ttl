@@ -1,0 +1,12 @@
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://xmlns.com/foaf/0.1/name> "Leibniz-Institut f\u00FCr Nutztierbiologie Dummerstorf" .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@fbn-dummerstorf.de> .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "54.0124469" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "12.2285557" .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://purl.org/dc/elements/1.1/description> "Hinweis: Termine auch nach Vereinbarung m\u00F6glich." .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-R48> .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://xmlns.com/foaf/0.1/homepage> <https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/bibliothek/?L=0> .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://xmlns.com/foaf/0.1/phone> "+49 38208 68-614" .
+<http://uri.gbv.de/organization/isil/DE-R48@r48> <http://purl.org/ontology/gbv/openinghours> "Mo 07:30 - 15:30\nDi 07:30 - 15:30\nMi 07:30 - 15:30\nDo 07:30 - 15:30\nFr 07:30 - 12:30" .
+<http://uri.gbv.de/organization/isil/DE-R48> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-R48@r48> .

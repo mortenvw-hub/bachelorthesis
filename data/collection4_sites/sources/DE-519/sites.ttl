@@ -1,0 +1,21 @@
+<http://uri.gbv.de/organization/isil/DE-519> <http://xmlns.com/foaf/0.1/name> "Hochschulbibliothek Neubrandenburg" .
+<http://uri.gbv.de/organization/isil/DE-519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-519> <http://xmlns.com/foaf/0.1/phone> "+49 395 5693-1510" .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://purl.org/ontology/gbv/openinghours> "Mo 09:00 - 19:00\nDi 09:00 - 19:00\nMi 09:00 - 19:00\nDo 09:00 - 19:00\nFr 09:00 - 19:00\nSa 10:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://xmlns.com/foaf/0.1/phone> "+49 395 5693-1510" .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://xmlns.com/foaf/0.1/homepage> <https://www.hs-nb.de/bibliothek/hauptmenue/informieren/nutzungshinweise/ausleihe-bibliotheksbenutzung/> .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-519> .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://xmlns.com/foaf/0.1/mbox> <mailto:hsb@hs-nb.de> .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-519@hinweise> <http://xmlns.com/foaf/0.1/name> "HSB Neubrandenburg" .
+<http://uri.gbv.de/organization/isil/DE-519> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-519@hinweise> .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://purl.org/ontology/gbv/openinghours> "Mo 09:00 - 19:00\nDi 09:00 - 19:00\nMi 09:00 - 19:00\nDo 09:00 - 19:00\nFr 09:00 - 19:00\nSa 10:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://xmlns.com/foaf/0.1/phone> "+49 395 5693-1510" .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-519> .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://xmlns.com/foaf/0.1/homepage> <https://www.hs-nb.de/bibliothek/hauptmenue/informieren/nutzungshinweise/ausleihe-bibliotheksbenutzung/standortbezeichnungen/> .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://xmlns.com/foaf/0.1/mbox> <mailto:hsb@hs-nb.de> .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-519@standorte> <http://xmlns.com/foaf/0.1/name> "HSB Neubrandenburg" .
+<http://uri.gbv.de/organization/isil/DE-519> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-519@standorte> .

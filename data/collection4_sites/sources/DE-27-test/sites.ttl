@@ -1,0 +1,258 @@
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://xmlns.com/foaf/0.1/name> "Th\u00FCringer Universit\u00E4ts- und Landesbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://dbpedia.org/property/shortName> "Jena ThULB" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@hss> .
+<http://uri.gbv.de/organization/isil/DE-27-test@hss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@hss> <http://xmlns.com/foaf/0.1/name> "Bibliothekshauptgeb\u00E4ude / Handschriften- und Sondersammlungen / Ebene -1" .
+<http://uri.gbv.de/organization/isil/DE-27-test@hss> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Handschriften__Sondersammlungen.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@hss> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ha> <http://xmlns.com/foaf/0.1/name> "Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@ha> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@haua> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haua> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haua> <http://xmlns.com/foaf/0.1/homepage> <http://www.uni-jena.de/uniarchiv.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haua> <http://xmlns.com/foaf/0.1/name> "Bibliothekshauptgeb\u00E4ude / Handapparat Universit\u00E4tsarchiv / Ebene -1" .
+<http://uri.gbv.de/organization/isil/DE-27-test@haua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei3> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei3> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Ebene 3" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@gei3> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Magazinbestellung.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mag> .
+<http://uri.gbv.de/organization/isil/DE-27-test@beu> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Beutenberg.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@beu> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@beu> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Beutenberg" .
+<http://uri.gbv.de/organization/isil/DE-27-test@beu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@beu> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@nat> .
+<http://uri.gbv.de/organization/isil/DE-27-test@nat> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_natwi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@nat> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@nat> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-27-test@nat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@naha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@naha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@naha> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@naha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@naha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@herb> .
+<http://uri.gbv.de/organization/isil/DE-27-test@herb> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Herbarium.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@herb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@herb> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Herbarium Haussknecht" .
+<http://uri.gbv.de/organization/isil/DE-27-test@herb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@gei4> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei4> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei4> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Ebene 4" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiuno> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiuno> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiuno> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / UNO-Depositarbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiuno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewiuno> .
+<http://uri.gbv.de/organization/isil/DE-27-test@che> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@che> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Chemie" .
+<http://uri.gbv.de/organization/isil/DE-27-test@che> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@che> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Chemie.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@che> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@cheha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@cheha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@cheha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@cheha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@cheha> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Chemie / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@mst> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Studienbibliothek.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mst> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mst> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Medizinische Studienbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mst> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedz> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / EDZ" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedz> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewiedz> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewiedzm> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedzm> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / EDZ / Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedzm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedzm> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiedzm> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@phy> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phy> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phy> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Physik.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phy> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Physik" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@phyha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phyha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phyha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@phyha> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Physik / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@phyha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei1> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei1> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Ebene 1" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@gei1> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha1> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Handapparat / Ebene 1" .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha1> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@geiha1> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@ast> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ast> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Astronomie.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ast> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ast> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Astronomie" .
+<http://uri.gbv.de/organization/isil/DE-27-test@geha4> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Handapparat / Ebene 4" .
+<http://uri.gbv.de/organization/isil/DE-27-test@geha4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geha4> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geha4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@geha4> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewi> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewi> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewi> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewi> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewimag> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewimag> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewimag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewimag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewimag> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@frau> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frau> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Frauenheilkunde und Geburtshilfe" .
+<http://uri.gbv.de/organization/isil/DE-27-test@frau> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frau> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Frauenheilkunde.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@frauha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frauha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frauha> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Frauenheilkunde und Geburtshilfe / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@frauha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@frauha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mstha> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Medizinische Studienbibliothek / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@mstha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mstha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mstha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mstha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@tll> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tll.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@tll> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@tll> <http://xmlns.com/foaf/0.1/name> "Agrarwissenschaftliche Bibliothek der Th\u00FCringer Landesanstalt f\u00FCr Landwirtschaft" .
+<http://uri.gbv.de/organization/isil/DE-27-test@tll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@tll> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@med> .
+<http://uri.gbv.de/organization/isil/DE-27-test@med> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@med> <http://xmlns.com/foaf/0.1/name> "TB Medizin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@med> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/TB_Medizin.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@med> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haeck> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Haeckelhaus.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haeck> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haeck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@haeck> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften : Geschichte der Medizin, Naturwissenschaften und Technik" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@haeck> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@gei2> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei2> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Ebene 2" .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei2> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@geiha2> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha2> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Handapparat / Ebene 2" .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha2> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medha> <http://xmlns.com/foaf/0.1/name> "TB Medizin / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@medha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@medha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha3> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha3> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Handapparat / Ebene 3" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@geiha3> .
+<http://uri.gbv.de/organization/isil/DE-27-test@psy> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Psychiatrie" .
+<http://uri.gbv.de/organization/isil/DE-27-test@psy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@psy> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@psy> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Psychiatrie.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@psy> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewiha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiha> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewiha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@spo> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spo> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spo> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/spowi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spo> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Sportwissenschaft" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@spoha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoha> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Sportwissenschaft / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoma> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Sportwissenschaft / Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoma> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/spowi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@spoma> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@spoma> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@vor> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vor> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Vorklinische_Medizin.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vor> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vor> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@vor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@vorha> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vorha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vorha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@vorha> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Vorklinische Medizin, Rechts- und Zahnmedizin / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test@vorha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@ls> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ls> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ls> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@ls> <http://xmlns.com/foaf/0.1/name> "Bibliothekshauptgeb\u00E4ude / Allgemeiner Lesesaal / Ebene 0" .
+<http://uri.gbv.de/organization/isil/DE-27-test@ls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@lbs> <http://xmlns.com/foaf/0.1/name> "Bibliothekshauptgeb\u00E4ude / Lehrbuchsammlung / Ebene 0" .
+<http://uri.gbv.de/organization/isil/DE-27-test@lbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@lbs> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@lbs> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/lbs.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@lbs> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@natlbs> .
+<http://uri.gbv.de/organization/isil/DE-27-test@natlbs> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@natlbs> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_natwi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@natlbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@natlbs> <http://xmlns.com/foaf/0.1/name> "TB Naturwissenschaften / Lehrbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@rewilbs> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewilbs> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewilbs> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_rewi.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewilbs> <http://xmlns.com/foaf/0.1/name> "TB Rechts-, Wirtschafts- und Sozialwissenschaften / Lehrbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-27-test@rewilbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medlbs> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medlbs> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/TB_Medizin.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medlbs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@medlbs> <http://xmlns.com/foaf/0.1/name> "TB Medizin / Lehrbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@medlbs> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mag3> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag3> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/TB_Medizin.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag3> <http://xmlns.com/foaf/0.1/name> "TB Medizin / Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mag4> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag4> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/Studienbibliothek.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag4> <http://xmlns.com/foaf/0.1/name> "TB Medizin : Medizinische Studienbibliothek / Magazin" .
+<http://uri.gbv.de/organization/isil/DE-27-test@mag4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@mls> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mls> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mls> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@mls> <http://xmlns.com/foaf/0.1/name> "Bibliothekshauptgeb\u00E4ude / Multimedia-Arbeitsbereich / Ebene 1" .
+<http://uri.gbv.de/organization/isil/DE-27-test@mls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/tb_geist.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@gei> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@gei> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-27-test> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha> <http://xmlns.com/foaf/0.1/homepage> <http://www.thulb.uni-jena.de/ha_lst.html> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-27-test@geiha> <http://xmlns.com/foaf/0.1/name> "TB Geisteswissenschaften / Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-27-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-27-test@geiha> .

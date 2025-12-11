@@ -1,0 +1,11 @@
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wa1> .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://purl.org/dc/elements/1.1/description> "Hinweis: Die Bibliothek ist f\u00FCr die Literaturversorgung der Mitarbeitenden des IOW zust\u00E4ndig. Dar\u00FCber hinaus steht die Bibliothek auch ausw\u00E4rtigen Nutzern, insbesondere Studierenden, zur Verf\u00FCgung." .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://xmlns.com/foaf/0.1/homepage> <https://www.io-warnemuende.de/bibliothek.html> .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://xmlns.com/foaf/0.1/phone> "+49 381 5197-460" .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://xmlns.com/foaf/0.1/name> "Leibniz-Institut f\u00FCr Ostseeforschung Warnem\u00FCnde" .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@io-warnemuende.de> .
+<http://uri.gbv.de/organization/isil/DE-Wa1@wa1> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "54.1793139" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "12.081318" .
+<http://uri.gbv.de/organization/isil/DE-Wa1> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wa1@wa1> .

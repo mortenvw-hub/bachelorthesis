@@ -1,0 +1,9 @@
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://purl.org/ontology/gbv/openinghours> "Mo - Mi 9.30 - 16.00 Uhr\nDo 9.30 -  17.00 Uhr\nFr 9.30 - 13.00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://purl.org/dc/elements/1.1/description> "Vorlesungsfreie Zeit: ge\u00E4nderte \u00D6ffnungszeiten s. Homepage" .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://xmlns.com/foaf/0.1/homepage> <http://www.hawk-hhg.de/bibliothek/default.php> .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://dbpedia.org/property/shortName> "G\u00F6ttingen Bibliothek N" .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "9.9696867" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "51.5217232" .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://xmlns.com/foaf/0.1/name> "HAWK Hochschule f\u00FCr angewandte Wissenschaft und Kunst Hildesheim/Holzminden/G\u00F6ttingen, Bibliothek Naturwissenschaften und Technik" .
+<http://uri.gbv.de/organization/isil/DE-Hil3-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .

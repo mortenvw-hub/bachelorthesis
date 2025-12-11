@@ -1,0 +1,2 @@
+<http://uri.gbv.de/organization/isil/DE-960-1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-960-test> .
+<http://uri.gbv.de/organization/isil/DE-960-test> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-960-1> .

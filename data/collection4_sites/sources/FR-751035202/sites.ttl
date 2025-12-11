@@ -1,0 +1,11 @@
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://xmlns.com/foaf/0.1/homepage> <http://www.dhi-paris.fr/> .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://purl.org/ontology/gbv/address> "8 rue du Parc-Royal\n75003 Paris" .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://purl.org/ontology/gbv/openinghours> "Mo-Do 10-18 Uhr, Fr 10-17 Uhr" .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://xmlns.com/foaf/0.1/phone> "+33 1 44 54 23 80" .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://xmlns.com/foaf/0.1/name> "Bibliothek des Deutschen Historischen Instituts Paris" .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@dhi-paris.fr> .
+<http://uri.gbv.de/organization/isil/FR-751035202@magazin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/FR-751035202@magazin> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/FR-751035202@magazin> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/FR-751035202> .
+<http://uri.gbv.de/organization/isil/FR-751035202> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/FR-751035202@magazin> .

@@ -1,0 +1,7 @@
+<http://uri.gbv.de/organization/isil/DE-39> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 09.00 - 20.00 Uhr, Sa/So 09.00 - 13.00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-39> <http://dbpedia.org/property/shortName> "Gotha FB" .
+<http://uri.gbv.de/organization/isil/DE-39> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "10.70447" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "50.94584" .
+<http://uri.gbv.de/organization/isil/DE-39> <http://xmlns.com/foaf/0.1/name> "Universita\u0308ts- und Forschungsbibliothek Erfurt/Gotha, Forschungsbibliothek Gotha" .
+<http://uri.gbv.de/organization/isil/DE-39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .

@@ -1,0 +1,4 @@
+<http://uri.gbv.de/organization/isil/DE-547> <http://purl.org/dc/elements/1.1/description> "Ge\u00E4nderte \u00D6ffnungszeiten w\u00E4hrend der vorlesungsfreien Zeit siehe http://www.uni-erfurt.de/bibliothek/ub/oeffnungszeiten/" .
+<http://uri.gbv.de/organization/isil/DE-547> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 08.00 - 22.00 Uhr, Sa 10.00 - 13.00 Uhr, So 13.00 - 18.00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-547> <http://xmlns.com/foaf/0.1/mbox> <mailto:information.ub@uni-erfurt.de> .

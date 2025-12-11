@@ -1,0 +1,20 @@
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://xmlns.com/foaf/0.1/name> "UB Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://xmlns.com/foaf/0.1/mbox> <mailto:info@ub.uni-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "11.327252" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "50.977337" .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://purl.org/ontology/gbv/address> "Steubenstr. 6/8\n99423 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://xmlns.com/foaf/0.1/phone> "+49 3643/582810 (Ausleihe) und +49 3643/582820 (Information)" .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 9 - 21 Uhr, Sa 10 - 16 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://xmlns.com/foaf/0.1/name> "Bibliothek Baustoffe/Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "50.980574" .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "11.322447" .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://xmlns.com/foaf/0.1/mbox> <mailto:info@ub.uni-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wim2> .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://purl.org/ontology/gbv/address> "Coudraystr. 7\n99423 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://purl.org/ontology/gbv/openinghours> "Mo-Do 9 - 18 Uhr, Fr 9 - 16 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-Wim2@bst> <http://xmlns.com/foaf/0.1/phone> "+49 3643/582890 (Ausleihe)" .
+<http://uri.gbv.de/organization/isil/DE-Wim2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wim2@bst> .

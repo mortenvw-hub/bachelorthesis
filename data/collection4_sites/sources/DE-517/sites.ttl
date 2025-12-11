@@ -1,0 +1,90 @@
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://xmlns.com/foaf/0.1/phone> "+49 331 977 2594" .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://purl.org/ontology/gbv/address> "Universit\u00E4tskomplex II\nGeb\u00E4ude 18 - IKMZ\nKarl-Liebknecht-Str. 24-25\n14476 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://purl.org/ontology/gbv/openinghours> "Mo-Do 09:00 - 22:00, Fr 09:00 - 18:00, Sa 10:00-18:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://purl.org/dc/elements/1.1/description> "Bereitstellung von Bestand aus dem Magazin Golm in die Bibliothek (sp\u00E4testens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Babelsberg erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag." .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-ii-golm-ikmz.html> .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://xmlns.com/foaf/0.1/mbox> <mailto:infog1@uni-potsdam.de> .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "52.408231" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "12.973209" .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@golm> <http://xmlns.com/foaf/0.1/name> "Bereichsbibliothek Golm" .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@golm> .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@golmmagazin> .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://xmlns.com/foaf/0.1/name> "Magazin Golm" .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "12.973209" .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "52.408231" .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://purl.org/dc/elements/1.1/description> "Bestellen Sie bitte \u00FCber den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Golm in die BB Golm (sp\u00E4testens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand an den Standorten  Babelsberg und Neues Palais erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag." .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-ii-golm-ikmz.html> .
+<http://uri.gbv.de/organization/isil/DE-517@golmmagazin> <http://purl.org/ontology/gbv/address> "Universit\u00E4tskomplex II\nGeb\u00E4ude 18 - IKMZ\nKarl-Liebknecht-Str. 24-25\n14476 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://xmlns.com/foaf/0.1/name> "Bereichsbibliothek Babelsberg" .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://www.opengis.net/ont/geosparql#location> _:b3 .
+_:b3 <http://www.opengis.net/ont/geosparql#lat> "52.39404892000" .
+_:b3 <http://www.opengis.net/ont/geosparql#long> "13.13081226820" .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://xmlns.com/foaf/0.1/mbox> <mailto:infobb@uni-potsdam.de> .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-iii-babelsberg.html> .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://purl.org/dc/elements/1.1/description> "Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek (sp\u00E4testens eine Stunde zuvor bestellt): Mo - Fr: 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand aus dem Magazin Golm erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag." .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://purl.org/ontology/gbv/address> "Universit\u00E4tskomplex III, Griebnitzsee\nGeb\u00E4ude 05\nAugust-Bebel-Stra\u00DFe 89\n14482 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 09:00 - 22:00, Sa 09:00 - 18:00, So 12:00 - 18:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-517@bbb> <http://xmlns.com/foaf/0.1/phone> "+49 331 977 3311" .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@bbb> .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-iii-babelsberg.html> .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://purl.org/dc/elements/1.1/description> "Bestellen Sie bitte \u00FCber den Online-Katalog. Bereitstellung von Bestand aus dem Magazin Babelsberg in die Bibliothek Babelsberg(sp\u00E4testens eine Stunde zuvor bestellt): Mo-Fr 09:00, 12:00 und 15:00 Uhr. Die Bereitstellung von Bestand in die Standorte Golm und Neues Palais erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag und Sonntag." .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://purl.org/ontology/gbv/address> "Universit\u00E4tskomplex III, Griebnitzsee\nGeb\u00E4ude 05\nAugust-Bebel-Stra\u00DFe 89\n14482 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://xmlns.com/foaf/0.1/name> "Magazin Bereichsbibliothek Babelsberg" .
+<http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> <http://www.opengis.net/ont/geosparql#location> _:b4 .
+_:b4 <http://www.opengis.net/ont/geosparql#long> "13.13081226820" .
+_:b4 <http://www.opengis.net/ont/geosparql#lat> "52.39404892000" .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@bbbmagazin> .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@np09> .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html> .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://purl.org/dc/elements/1.1/description> "Die Bereitstellung von Best\u00E4nden aus den Magazinen erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag." .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://xmlns.com/foaf/0.1/phone> "+49 331 977 1541" .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://purl.org/ontology/gbv/address> "Universit\u00E4tskomplex I, Neues Palais, Geb\u00E4ude 09\nAm Neuen Palais 10\n14469 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 09:00 - 18:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://xmlns.com/foaf/0.1/name> "Bereichsbibliothek Neues Palais, Haus 09" .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://www.opengis.net/ont/geosparql#location> _:b5 .
+_:b5 <http://www.opengis.net/ont/geosparql#long> "13.01299279920" .
+_:b5 <http://www.opengis.net/ont/geosparql#lat> "52.40062914330" .
+<http://uri.gbv.de/organization/isil/DE-517@np09> <http://xmlns.com/foaf/0.1/mbox> <mailto:infonp2@uni-potsdam.de> .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://xmlns.com/foaf/0.1/mbox> <mailto:infonp3@uni-potsdam.de> .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://www.opengis.net/ont/geosparql#location> _:b6 .
+_:b6 <http://www.opengis.net/ont/geosparql#long> "13.01305254320" .
+_:b6 <http://www.opengis.net/ont/geosparql#lat> "52.40026112000" .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://xmlns.com/foaf/0.1/name> "Bereichsbibliothek Neues Palais, Haus 10" .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://purl.org/ontology/gbv/openinghours> "Mo - Do 09:00 - 22:00, Fr 09:00 - 18:00, Sa 10:00 - 15:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://purl.org/ontology/gbv/address> "Komplex I, Neues Palais, Geb\u00E4ude 10\nAm Neuen Palais 10\n14469 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://xmlns.com/foaf/0.1/phone> "+49 331 977 4149" .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://purl.org/dc/elements/1.1/description> "Die Bereitstellung von Best\u00E4nden aus den Magazinen erfolgt i.d.R. am n\u00E4chsten \u00D6ffnungstag, ausgenommen Samstag." .
+<http://uri.gbv.de/organization/isil/DE-517@np10> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html> .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@np10> .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://xmlns.com/foaf/0.1/homepage> <http://www.ub.uni-potsdam.de/benutzung/standorte-und-oeffnungszeiten/campus-i-neues-palais.html> .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://purl.org/dc/elements/1.1/description> "Aktuelle Ver\u00E4nderungen der \u00D6ffnungszeiten bitte der Homepage der UB entnehmen." .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://purl.org/ontology/gbv/address> "Komplex I, Neues Palais, Geb\u00E4ude 11\nAm Neuen Palais 10\n14469 Potsdam" .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr 09:00 - 18:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://xmlns.com/foaf/0.1/phone> "+49 331 977 1401" .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://xmlns.com/foaf/0.1/name> "Bereichsbibliothek Neues Palais, Haus 11" .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://www.opengis.net/ont/geosparql#location> _:b7 .
+_:b7 <http://www.opengis.net/ont/geosparql#lat> "52.40184194750" .
+_:b7 <http://www.opengis.net/ont/geosparql#long> "13.01286434950" .
+<http://uri.gbv.de/organization/isil/DE-517@np11> <http://xmlns.com/foaf/0.1/mbox> <mailto:infonp1@uni-potsdam.de> .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@np11> .
+<http://uri.gbv.de/organization/isil/DE-517@ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-517@ha> <http://xmlns.com/foaf/0.1/name> "Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-517@ha> <http://purl.org/dc/elements/1.1/description> "Dieser Bestand ist au\u00DFerhalb der UB aufgestellt. Bitte wenden Sie sich an die Informationspl\u00E4tze der Bereichsbibliotheken." .
+<http://uri.gbv.de/organization/isil/DE-517@ha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-517> .
+<http://uri.gbv.de/organization/isil/DE-517> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-517@ha> .

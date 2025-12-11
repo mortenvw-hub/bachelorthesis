@@ -1,0 +1,51 @@
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@hfm-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "11.331523" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "50.978433" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://xmlns.com/foaf/0.1/name> "Hochschulbibliothek | Hauptbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://purl.org/ontology/gbv/address> "F\u00FCrstenhaus\nPlatz der Demokratie 2/3\n99423 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://xmlns.com/foaf/0.1/phone> "+49-3643 555 124" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://purl.org/dc/elements/1.1/description> "Aktuelle \u00D6ffnungszeiten siehe: http://www.hfm-weimar.de/148" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wim8@mw> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@hfm-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "11.338996" .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "50.978574" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://xmlns.com/foaf/0.1/name> "Hochschulbibliothek | Teilbibliothek Musikwissenschaft" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://purl.org/ontology/gbv/address> "hochschulzentrum am horn\nCarl-Alexander-Platz 1\n99423 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://xmlns.com/foaf/0.1/phone> "+49-3643 555 112" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wim8> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@mw> <http://purl.org/dc/elements/1.1/description> "Pr\u00E4senznutzung, Wochenendausleihe f\u00FCr Hochschulangeh\u00F6rige\nAktuelle \u00D6ffnungszeiten siehe: http://www.hfm-weimar.de/148" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://purl.org/ontology/gbv/address> "Platz der Demokratie 2/3\n99423 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://xmlns.com/foaf/0.1/phone> "+49-3643 555 124" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://purl.org/dc/elements/1.1/description> "Keine Ausleihe" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wim8> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@hfm-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://xmlns.com/foaf/0.1/name> "Hochschulbibliothek | Handapparate" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wim8@ha> .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wim8@hsa> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://xmlns.com/foaf/0.1/name> "Hochschularchiv | Th\u00FCringisches Landesmusikarchiv" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://www.opengis.net/ont/geosparql#location> _:b3 .
+_:b3 <http://www.opengis.net/ont/geosparql#lat> "50.978574" .
+_:b3 <http://www.opengis.net/ont/geosparql#long> "11.338996" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://xmlns.com/foaf/0.1/mbox> <mailto:archiv@hfm-weimar.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wim8> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://purl.org/dc/elements/1.1/description> "Keine Ausleihe\nAktuelle \u00D6ffnungszeiten siehe: http://www.hfm-weimar.de/343" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://purl.org/ontology/gbv/address> "hochschulzentrum am horn\nCarl-Alexander-Platz 1\n99425 Weimar" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@hsa> <http://xmlns.com/foaf/0.1/phone> "+49-3643 555 236" .
+<http://uri.gbv.de/organization/isil/DE-Wim8> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Wim8@jazz> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://xmlns.com/foaf/0.1/phone> "+49-3691 - 61 25 25" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://purl.org/ontology/gbv/address> "Palmental 1\n99817 Eisenach" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://xmlns.com/foaf/0.1/homepage> <http://www.lr-musikarchiv.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://purl.org/dc/elements/1.1/description> "Nutzung nach Absprache, keine Ausleihe" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Wim8> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://www.opengis.net/ont/geosparql#location> _:b4 .
+_:b4 <http://www.opengis.net/ont/geosparql#long> "10.334058" .
+_:b4 <http://www.opengis.net/ont/geosparql#lat> "50.982384" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://xmlns.com/foaf/0.1/mbox> <mailto:info@lr-musikarchiv.de> .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://xmlns.com/foaf/0.1/name> "Internationales Archiv f\u00FCr Jazz und Popul\u00E4re Musik der Lippmann+Rau-Stiftung Eisenach" .
+<http://uri.gbv.de/organization/isil/DE-Wim8@jazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .

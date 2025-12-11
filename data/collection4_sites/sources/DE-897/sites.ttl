@@ -1,0 +1,200 @@
+<http://uri.gbv.de/organization/isil/DE-897@ha101> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha101> <http://xmlns.com/foaf/0.1/name> "HA IAPG" .
+<http://uri.gbv.de/organization/isil/DE-897@ha101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha101> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha137> .
+<http://uri.gbv.de/organization/isil/DE-897@ha137> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Litwitz / Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-897@ha137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha137> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha151> .
+<http://uri.gbv.de/organization/isil/DE-897@ha151> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Fr. Vo\u00DFmann / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha151> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha151> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha162> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Frau Petrarca / TGM" .
+<http://uri.gbv.de/organization/isil/DE-897@ha162> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha162> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha162> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha164> .
+<http://uri.gbv.de/organization/isil/DE-897@ha164> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha164> <http://xmlns.com/foaf/0.1/name> "HA Information / Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-897@ha164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha185> .
+<http://uri.gbv.de/organization/isil/DE-897@ha185> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha185> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Thiessen / Architektur" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha193> .
+<http://uri.gbv.de/organization/isil/DE-897@ha193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha193> <http://xmlns.com/foaf/0.1/name> "HA Pr\u00FCfungsamt" .
+<http://uri.gbv.de/organization/isil/DE-897@ha193> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha214> .
+<http://uri.gbv.de/organization/isil/DE-897@ha214> <http://xmlns.com/foaf/0.1/name> "HA Dekanat Geoinformation" .
+<http://uri.gbv.de/organization/isil/DE-897@ha214> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha214> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha219> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha219> <http://xmlns.com/foaf/0.1/name> "HA Photogrammetrie" .
+<http://uri.gbv.de/organization/isil/DE-897@ha219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha219> .
+<http://uri.gbv.de/organization/isil/DE-897@ha228> <http://xmlns.com/foaf/0.1/name> "HA Institut f\u00FCr H\u00F6rtechnik und Audiologie" .
+<http://uri.gbv.de/organization/isil/DE-897@ha228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha228> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha228> .
+<http://uri.gbv.de/organization/isil/DE-897@ha234> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro We\u00DFels / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha234> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha234> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha247> .
+<http://uri.gbv.de/organization/isil/DE-897@ha247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha247> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Diemand / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha247> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha296> <http://xmlns.com/foaf/0.1/name> "B\u00FCro W. Jan\u00DFen / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha296> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha296> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha297> .
+<http://uri.gbv.de/organization/isil/DE-897@ha297> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha297> <http://xmlns.com/foaf/0.1/name> "HA Metallbauwerkstatt" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha328> .
+<http://uri.gbv.de/organization/isil/DE-897@ha328> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha328> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Brinkhoff / Geoinformation" .
+<http://uri.gbv.de/organization/isil/DE-897@ha328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha344> .
+<http://uri.gbv.de/organization/isil/DE-897@ha344> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha344> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Gerdes / Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-897@ha344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha373> .
+<http://uri.gbv.de/organization/isil/DE-897@ha373> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha373> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Lorkowski / Geoinformation" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha383> .
+<http://uri.gbv.de/organization/isil/DE-897@ha383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha383> <http://xmlns.com/foaf/0.1/name> "HA Baustoffpr\u00FCflabor" .
+<http://uri.gbv.de/organization/isil/DE-897@ha383> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha392> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha392> <http://xmlns.com/foaf/0.1/name> "HA Labor f\u00FCr Schwei\u00DF- u. Pr\u00FCftechnik" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha392> .
+<http://uri.gbv.de/organization/isil/DE-897@ha411> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha411> <http://xmlns.com/foaf/0.1/name> "HA ZfW" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha411> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha414> .
+<http://uri.gbv.de/organization/isil/DE-897@ha414> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Wert / Architektur" .
+<http://uri.gbv.de/organization/isil/DE-897@ha414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha414> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha496> <http://xmlns.com/foaf/0.1/name> "HA Gleichstellungsb\u00FCro" .
+<http://uri.gbv.de/organization/isil/DE-897@ha496> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha496> .
+<http://uri.gbv.de/organization/isil/DE-897@ha523> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha523> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Seibel / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha523> .
+<http://uri.gbv.de/organization/isil/DE-897@ha553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha553> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Plog / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha553> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha553> .
+<http://uri.gbv.de/organization/isil/DE-897@ha557> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha557> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Wigger / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha557> .
+<http://uri.gbv.de/organization/isil/DE-897@ha579> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Jaquemotte / Geoinformation" .
+<http://uri.gbv.de/organization/isil/DE-897@ha579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha579> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha579> .
+<http://uri.gbv.de/organization/isil/DE-897@ha613> <http://xmlns.com/foaf/0.1/name> "HA Labor f\u00FCr Gesundheit" .
+<http://uri.gbv.de/organization/isil/DE-897@ha613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha613> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha613> .
+<http://uri.gbv.de/organization/isil/DE-897@ha617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha617> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Bitzer / TGM" .
+<http://uri.gbv.de/organization/isil/DE-897@ha617> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha617> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha618> .
+<http://uri.gbv.de/organization/isil/DE-897@ha618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha618> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Gerdes / Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-897@ha618> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha635> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha635> <http://xmlns.com/foaf/0.1/name> "HA Labor f\u00FCr Bodenmechanik" .
+<http://uri.gbv.de/organization/isil/DE-897@ha635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha635> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha637> .
+<http://uri.gbv.de/organization/isil/DE-897@ha637> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha637> <http://xmlns.com/foaf/0.1/name> "HA FM/IW" .
+<http://uri.gbv.de/organization/isil/DE-897@ha637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha645> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha645> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Lorenz / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha645> .
+<http://uri.gbv.de/organization/isil/DE-897@ha733> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha733> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro f\u00FCr Bauchemie" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha733> .
+<http://uri.gbv.de/organization/isil/DE-897@ha764> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha764> <http://xmlns.com/foaf/0.1/name> "HA Bibliotheksleitung" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha764> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha766> .
+<http://uri.gbv.de/organization/isil/DE-897@ha766> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha766> <http://xmlns.com/foaf/0.1/name> "HA Physiklabor" .
+<http://uri.gbv.de/organization/isil/DE-897@ha766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha779> .
+<http://uri.gbv.de/organization/isil/DE-897@ha779> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Plotz / TGM" .
+<http://uri.gbv.de/organization/isil/DE-897@ha779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha779> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha783> .
+<http://uri.gbv.de/organization/isil/DE-897@ha783> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha783> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro P\u00E4tzold / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha786> .
+<http://uri.gbv.de/organization/isil/DE-897@ha786> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha786> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha786> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Westwood / Presse & Kommunikation" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha789> .
+<http://uri.gbv.de/organization/isil/DE-897@ha789> <http://xmlns.com/foaf/0.1/name> "HA Labor f\u00FCr Stra\u00DFenbau" .
+<http://uri.gbv.de/organization/isil/DE-897@ha789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha789> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha854> .
+<http://uri.gbv.de/organization/isil/DE-897@ha854> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Palme / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha854> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha888> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha888> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Franz / TGM" .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha888> .
+<http://uri.gbv.de/organization/isil/DE-897@ha912> <http://xmlns.com/foaf/0.1/name> "HA Technologie & Transfer" .
+<http://uri.gbv.de/organization/isil/DE-897@ha912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha912> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha912> .
+<http://uri.gbv.de/organization/isil/DE-897@ha939> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha939> <http://xmlns.com/foaf/0.1/name> "HA Labor f\u00FCr Bauphysik" .
+<http://uri.gbv.de/organization/isil/DE-897@ha939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha939> .
+<http://uri.gbv.de/organization/isil/DE-897@ha943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha943> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Weitk\u00E4mper / Geoinformation" .
+<http://uri.gbv.de/organization/isil/DE-897@ha943> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha943> .
+<http://uri.gbv.de/organization/isil/DE-897@ha979> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@ha979> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Seybold / TGM" .
+<http://uri.gbv.de/organization/isil/DE-897@ha979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha979> .
+<http://uri.gbv.de/organization/isil/DE-897@ha986> <http://xmlns.com/foaf/0.1/name> "HA B\u00FCro Golombiewski / Bauwesen" .
+<http://uri.gbv.de/organization/isil/DE-897@ha986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@ha986> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@ha986> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@mag> .
+<http://uri.gbv.de/organization/isil/DE-897@mag> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-897@mag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@mag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@sa642> .
+<http://uri.gbv.de/organization/isil/DE-897@sa642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@sa642> <http://xmlns.com/foaf/0.1/name> "SA Plog / Bibliothek Regal 10" .
+<http://uri.gbv.de/organization/isil/DE-897@sa642> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@sa807> .
+<http://uri.gbv.de/organization/isil/DE-897@sa807> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .
+<http://uri.gbv.de/organization/isil/DE-897@sa807> <http://xmlns.com/foaf/0.1/name> "SA Energiewende / Bibliothek Regal 10" .
+<http://uri.gbv.de/organization/isil/DE-897@sa807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-897@sa828> .
+<http://uri.gbv.de/organization/isil/DE-897@sa828> <http://xmlns.com/foaf/0.1/name> "SA Koppelin / Bibliothek Regal 10" .
+<http://uri.gbv.de/organization/isil/DE-897@sa828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-897@sa828> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-897> .

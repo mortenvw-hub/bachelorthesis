@@ -1,0 +1,9 @@
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://xmlns.com/foaf/0.1/phone> "+49 3683 6 88-1785" .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://purl.org/ontology/gbv/address> "Hochschule Schmalkalden\nBlechhammer, Haus I\n98574 Schmalkalden" .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://purl.org/ontology/gbv/openinghours> "Mo-Do 9:00-20:00, Fr 9:00-15:00 (w\u00E4hrend der Vorlesungszeit)\nMo-Do 9:00-17:00, Fr 9:00-15:00 (w\u00E4hrend der vorlesungs- und pr\u00FCfungsfreien Zeit)\nMo-Do 9:00-21:00, Fr 9:00-18:00 (w\u00E4hrend der letzten Vorlesungswoche und im Pr\u00FCfungszeitraum)" .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://xmlns.com/foaf/0.1/name> "Cellarius Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "50.717354" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "10.464998" .
+<http://uri.gbv.de/organization/isil/DE-Shm2> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@hs-schmalkalden.de> .

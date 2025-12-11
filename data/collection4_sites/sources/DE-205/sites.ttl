@@ -1,0 +1,2 @@
+<http://uri.gbv.de/organization/isil/DE-205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-205> <http://purl.org/ontology/gbv/openinghours> "Mo-Do 10:00-20:00, Fr-Sa 10:00-15:00" .

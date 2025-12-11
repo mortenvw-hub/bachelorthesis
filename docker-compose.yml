@@ -1,0 +1,52 @@
+services:
+
+  importer:
+    image: ghcr.io/nfdi4objects/n4o-graph-importer:main
+    ports:
+      - ${IMPORT:-5020}:5020
+    volumes:
+      - ${STAGE:-./stage}:/app/stage
+      - ${DATA:-./data}:/app/data:ro
+    networks:
+      - LODatVZG
+    environment:
+      - TITLE=LOD@VZG Graph Importer
+      #- BASE=https://uri.gbv.de/
+      - SPARQL=http://fuseki:3030/LODatVZG
+      - FRONTEND=http://localhost:8000/
+      - BASE=http://localhost:8000/
+
+  fuseki:
+    image: ghcr.io/nfdi4objects/n4o-fuseki:main
+    #ports:
+    #  - "3031:3030"
+    volumes:
+      - ./dockerfiles/fuseki/config.ttl:/fuseki/config.ttl
+    #  - ./fuseki/logs:/fuseki/logs
+    #  - ./fuseki/databases:/fuseki/databases
+    #  - ./fuseki/log4j2.properties:/fuseki/log4j2.properties:ro
+    networks:
+      - LODatVZG
+    restart: always
+
+  apis:
+    image: ghcr.io/nfdi4objects/n4o-graph-apis:main
+    ports:
+      - ${PORT:-8000}:8000
+    volumes:
+      - ./dockerfiles/api/config-apis.yml:/app/config.yaml:ro # ./config-apis.yml must exist!
+      - ${STAGE:-./stage}:/app/stage:ro
+      - ${QUERIES:-./dockerfiles/api/queries}:/app/queries
+      - ./dockerfiles/api/templates:/app/templates
+      - ./dockerfiles/api/static/favicon.ico:/app/static/favicon.ico
+      - ./dockerfiles/api/static/style.css:/app/static/style.css
+      - ./dockerfiles/api/app.py:/app/app.py 
+    networks:
+      - LODatVZG
+    environment:
+      - SPARQL=http://fuseki:3030/LODatVZG
+      - BASE=http://localhost:8000/
+
+networks:
+  LODatVZG:
+    driver: bridge

@@ -1,0 +1,76 @@
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://xmlns.com/foaf/0.1/mbox> <mailto:unibib@uni.leuphana.de> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://xmlns.com/foaf/0.1/name> "Zentralbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://purl.org/ontology/gbv/address> "Scharnhorststr. 1, 21335 L\u00FCneburg" .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://xmlns.com/foaf/0.1/phone> "+49 04131/677-1100" .
+<http://uri.gbv.de/organization/isil/DE-Luen4-1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4-1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4-1> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@stb> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@stb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@stb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@stb> <http://xmlns.com/foaf/0.1/name> "Infothek f\u00FCr Studium und Beruf" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sgr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sgr> <http://xmlns.com/foaf/0.1/name> "Standort Gr\u00FCndungsmanagement" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sgr> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@sgr> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@schul> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@schul> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Schul- und Hochschulforschung" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@schul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@schul> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@psych> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@psych> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@psych> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@psych> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@ffb> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ffb> <http://xmlns.com/foaf/0.1/name> "Forschungsinstitut Freie Berufe" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ffb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ffb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@math> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@math> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mathematik" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@math> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@math> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@suc> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@suc> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr \u00D6kologie und Umweltchemie" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@suc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@suc> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@elbschloss> <http://xmlns.com/foaf/0.1/name> "Elbschloss Bleckede" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@elbschloss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@elbschloss> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@elbschloss> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@frg> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@frg> <http://xmlns.com/foaf/0.1/name> "Frauen- und Gleichstellungsb\u00FCro" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@frg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@frg> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@kmu> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Kunst, Musik und ihre Vermittlung" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@kmu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@kmu> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@kmu> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fern> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fern> <http://xmlns.com/foaf/0.1/name> "Fernstudienzentrum" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@fern> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fstade> <http://xmlns.com/foaf/0.1/name> "Fernstudienzentrum Stade" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fstade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@fstade> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@fstade> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@ost> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ost> <http://xmlns.com/foaf/0.1/name> "Ost-Akademie-Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@ost> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@lehrbuchsammlung> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@lehrbuchsammlung> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@lehrbuchsammlung> <http://xmlns.com/foaf/0.1/name> "Lehrbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@lehrbuchsammlung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@agenda21> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@agenda21> <http://xmlns.com/foaf/0.1/name> "Agenda 21" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@agenda21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@agenda21> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@sdd> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdd> <http://xmlns.com/foaf/0.1/name> "Standort Deutschdidaktik" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdd> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .
+<http://uri.gbv.de/organization/isil/DE-Luen4> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Luen4@sdt> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdt> <http://xmlns.com/foaf/0.1/name> "Standort: Seminar Deutsch" .
+<http://uri.gbv.de/organization/isil/DE-Luen4@sdt> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Luen4> .

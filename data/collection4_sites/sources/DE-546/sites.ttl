@@ -1,0 +1,14 @@
+<http://uri.gbv.de/organization/isil/DE-546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-546> <http://xmlns.com/foaf/0.1/name> "Fachhochschule Erfurt, Hochschulbibliothek" .
+<http://uri.gbv.de/organization/isil/DE-546> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@fh-erfurt.de> .
+<http://uri.gbv.de/organization/isil/DE-546> <http://purl.org/ontology/gbv/address> "Altonaer Str. 25\n99085 Erfurt" .
+<http://uri.gbv.de/organization/isil/DE-546> <http://xmlns.com/foaf/0.1/phone> "+49 361 6700-519" .
+<http://uri.gbv.de/organization/isil/DE-546> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-546@schl> .
+<http://uri.gbv.de/organization/isil/DE-546@schl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-546@schl> <http://xmlns.com/foaf/0.1/name> "Zweigstelle Schl\u00FCterstra\u00DFe" .
+<http://uri.gbv.de/organization/isil/DE-546@schl> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-546> .
+<http://uri.gbv.de/organization/isil/DE-546@schl> <http://purl.org/ontology/gbv/address> "Schl\u00FCterstra\u00DFe 1\n99089 Erfurt" .
+<http://uri.gbv.de/organization/isil/DE-546@magazin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-546@magazin> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-546@magazin> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-546> .
+<http://uri.gbv.de/organization/isil/DE-546> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-546@magazin> .

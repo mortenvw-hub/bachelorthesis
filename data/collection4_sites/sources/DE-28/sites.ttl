@@ -1,0 +1,298 @@
+<http://uri.gbv.de/organization/isil/DE-28> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8601 (Direktion) und +49 381 498-8640 (Information)" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://xmlns.com/foaf/0.1/name> "UB Rostock und Bibliotheken im Regionalverbund" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubhome> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://xmlns.com/foaf/0.1/mbox> <mailto:direktion.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "12.103565" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "54.075575" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://xmlns.com/foaf/0.1/name> "UB Rostock" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8601" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhome> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubnetman> .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "12.103565" .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "54.075575" .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://xmlns.com/foaf/0.1/mbox> <mailto:ub-iuk@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://xmlns.com/foaf/0.1/name> "Anwendungsserver UB Rostock" .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8610" .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://xmlns.com/foaf/0.1/homepage> <https://dbis.ur.de/dbinfo/dbliste.php?bib_id=ub_hro&colors=8&ocolors=&lett=k&jq_type1=AL&jq_term1=&zugaenge=3> .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubnetman> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Verwaltungsgeb\u00E4ude (Direktion)" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://www.opengis.net/ont/geosparql#location> _:b3 .
+_:b3 <http://www.opengis.net/ont/geosparql#long> "12.134040" .
+_:b3 <http://www.opengis.net/ont/geosparql#lat> "54.086961" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://xmlns.com/foaf/0.1/mbox> <mailto:ub.direktion@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/universitaetsbibliothek/dezernate-und-abteilungen/direktion-und-zentralabteilung/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://purl.org/dc/elements/1.1/description> "Hinweis: Termine nach Vereinbarung." .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3b> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8601" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubs3b> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubs3a> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://xmlns.com/foaf/0.1/mbox> <mailto:bb2fhm.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://www.opengis.net/ont/geosparql#location> _:b4 .
+_:b4 <http://www.opengis.net/ont/geosparql#long> "12.134571" .
+_:b4 <http://www.opengis.net/ont/geosparql#lat> "54.086879" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Sprach- und Literaturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 19:00\nDi 09:00 - 19:00\nMi 09:00 - 19:00\nDo 09:00 - 19:00\nFr 09:00 - 19:00\nSa 10:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8731" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubs3a> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-sprach-und-literaturwissenschaften/> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubarc> .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8621" .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://purl.org/ontology/gbv/openinghours> "Di 09:00 - 12:00, 13:00 - 18:00\nMi 09:00 - 12:00, 13:00 - 16:00\nDo 09:00 - 12:00, 13:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/universitaetsarchivkustodie/das-universitaetsarchiv/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://xmlns.com/foaf/0.1/mbox> <mailto:universitaetsarchiv@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://www.opengis.net/ont/geosparql#location> _:b5 .
+_:b5 <http://www.opengis.net/ont/geosparql#long> "12.133407" .
+_:b5 <http://www.opengis.net/ont/geosparql#lat> "54.088115" .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubarc> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Universit\u00E4tsarchiv und Kustodie" .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://xmlns.com/foaf/0.1/name> "IT- und Medienzentrum" .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://www.opengis.net/ont/geosparql#location> _:b6 .
+_:b6 <http://www.opengis.net/ont/geosparql#long> "12.106839" .
+_:b6 <http://www.opengis.net/ont/geosparql#lat> "54.077476" .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://xmlns.com/foaf/0.1/mbox> <mailto:itmz@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://xmlns.com/foaf/0.1/homepage> <https://www.itmz.uni-rostock.de/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubitmz> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-5301" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubitmz> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubbsp> .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8741" .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/richard-wossidlo-zentrum/buecherspeicher/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://purl.org/dc/elements/1.1/description> "Hinweis: B\u00FCcher und andere Medien aus dem B\u00FCcherspeicher, die ausgeliehen werden k\u00F6nnen, erhalten Sie in der Fachbibliothek Sprach- und Literaturwissenschaften. Sie erhalten eine E-Mail, wenn die Bestellung f\u00FCr Sie bereit liegt. Die B\u00FCcher sind die n\u00E4chsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gel\u00F6scht.Alte Drucke und Literatur, die nur in den Bibliotheksr\u00E4umen genutzt werden k\u00F6nnen, werden in der Regel vier Wochen im Leseraum der Sondersammlungen, zur Einsicht vor Ort zur Verf\u00FCgung gehalten." .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://www.opengis.net/ont/geosparql#location> _:b7 .
+_:b7 <http://www.opengis.net/ont/geosparql#long> "12.134571" .
+_:b7 <http://www.opengis.net/ont/geosparql#lat> "54.087489" .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://xmlns.com/foaf/0.1/mbox> <mailto:buecherspeicher@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://xmlns.com/foaf/0.1/name> "UB Rostock: B\u00FCcherspeicher" .
+<http://uri.gbv.de/organization/isil/DE-28@locubbsp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8754" .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://purl.org/ontology/gbv/openinghours> "Di 09:00 - 12:00, 13:00 - 17:00\nMi 09:00 - 12:00, 13:00 - 17:00\nDo 09:00 - 12:00, 13:00 - 17:00\nFr 09:00 - 12:00, 13:00 - 17:00" .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/sondersammlungen/die-sondersammlungen/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://xmlns.com/foaf/0.1/mbox> <mailto:sondersammlungen@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://www.opengis.net/ont/geosparql#location> _:b8 .
+_:b8 <http://www.opengis.net/ont/geosparql#lat> "54.087036" .
+_:b8 <http://www.opengis.net/ont/geosparql#long> "12.136041" .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Sondersammlungen" .
+<http://uri.gbv.de/organization/isil/DE-28@locubson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubson> .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://xmlns.com/foaf/0.1/name> "Patent- und Normenzentrum" .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://xmlns.com/foaf/0.1/mbox> <mailto:patente@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://www.opengis.net/ont/geosparql#location> _:b9 .
+_:b9 <http://www.opengis.net/ont/geosparql#lat> "54.084267" .
+_:b9 <http://www.opengis.net/ont/geosparql#long> "12.112727" .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://purl.org/dc/elements/1.1/description> "Fr Termine nach Vereinbarung\nHinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/patent-und-normenzentrum/das-patent-und-normenzentrum/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8674" .
+<http://uri.gbv.de/organization/isil/DE-28@locubpnz> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 12:00, 13:00 - 16:00\nDi 09:30 - 12:00, 13:00 - 18:00\nMi 09:30 - 12:00, 13:00 - 16:00\nDo 09:30 - 12:00, 13:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubpnz> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubaes> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Campusbibliothek S\u00FCdstadt" .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://www.opengis.net/ont/geosparql#location> _:b10 .
+_:b10 <http://www.opengis.net/ont/geosparql#lat> "54.075575" .
+_:b10 <http://www.opengis.net/ont/geosparql#long> "12.103565" .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://xmlns.com/foaf/0.1/mbox> <mailto:ausleihe-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-suedstadt/oeffnungszeiten/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 24:00\nDi 09:00 - 24:00\nMi 09:00 - 24:00\nDo 09:00 - 24:00\nFr 09:00 - 24:00\nSa 10:00 - 24:00\nSo 12:00 - 24:00\nHinweis: Servicezeiten (Ausgabe, Information): Montag bis Freitag bis 20:00 Uhr und Samstag bis 16:00 Uhr." .
+<http://uri.gbv.de/organization/isil/DE-28@locubaes> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8650" .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8650" .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://purl.org/dc/elements/1.1/description> "Hinweis: Bei der Bestellung von B\u00FCchern und anderen Medien aus dem Magazin der Campusbibliothek S\u00FCdstadt betr\u00E4gt die Bereitstellungsdauer w\u00E4hrend der Servicezeiten ca. eine Stunde. Nach der Beendigung der Servicezeiten erfolgt die Bereitstellung am n\u00E4chsten Tag. Sie erhalten eine E-Mail, wenn die Bestellung f\u00FCr Sie bereit liegt. Die B\u00FCcher sind die n\u00E4chsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gel\u00F6scht." .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://xmlns.com/foaf/0.1/mbox> <mailto:ausleihe-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://www.opengis.net/ont/geosparql#location> _:b11 .
+_:b11 <http://www.opengis.net/ont/geosparql#long> "12.103565" .
+_:b11 <http://www.opengis.net/ont/geosparql#lat> "54.075575" .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubaesmag> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Campusbibliothek S\u00FCdstadt - Magazin" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubaesmag> .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Au\u00DFenmagazin Tannenweg" .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://xmlns.com/foaf/0.1/mbox> <mailto:ausleihe-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://www.opengis.net/ont/geosparql#location> _:b12 .
+_:b12 <http://www.opengis.net/ont/geosparql#long> "12.064474" .
+_:b12 <http://www.opengis.net/ont/geosparql#lat> "54.075038" .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://purl.org/dc/elements/1.1/description> "Hinweis: Bestellte Medien sind innerhalb von 7 Tagen f\u00FCr Sie in der Campusbibliothek S\u00FCdstadt abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung f\u00FCr Sie bereit liegt. Die B\u00FCcher sind die n\u00E4chsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gel\u00F6scht." .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubausmag> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8650" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubausmag> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Bildung, Geschichte, Altertum" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://xmlns.com/foaf/0.1/mbox> <mailto:ausleihe-bb2.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://www.opengis.net/ont/geosparql#location> _:b13 .
+_:b13 <http://www.opengis.net/ont/geosparql#lat> "54.085035" .
+_:b13 <http://www.opengis.net/ont/geosparql#long> "12.133294" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://purl.org/dc/elements/1.1/description> "Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterst\u00FCtzung ben\u00F6tigen, bitte vor Ihrem Bibliotheksbesuch anrufen." .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-bildung-geschichte-altertum/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8733" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabs> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 19:00\nDi 09:00 - 19:00\nMi 09:00 - 19:00\nDo 09:00 - 19:00\nFr 09:00 - 19:00\nSa 10:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubabs> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://xmlns.com/foaf/0.1/mbox> <mailto:ausleihe-bb2.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://www.opengis.net/ont/geosparql#location> _:b14 .
+_:b14 <http://www.opengis.net/ont/geosparql#lat> "54.085035" .
+_:b14 <http://www.opengis.net/ont/geosparql#long> "12.133294" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Bildung, Geschichte, Altertum - Magazin" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8733" .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://purl.org/dc/elements/1.1/description> "Hinweis: Bestellte Medien sind innerhalb von einer Stunde f\u00FCr Sie in der Fachbibliothek Bildung, Geschichte abholbereit. Sie erhalten eine E-Mail, wenn die Bestellung f\u00FCr Sie bereit liegt. Die B\u00FCcher sind die n\u00E4chsten 7 Tage auf Ihren Namen reserviert. Sollten Sie ein bestelltes Medium innerhalb dieses Zeitraumes nicht abholen, wird die Bestellung gel\u00F6scht." .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubabsmag> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/nutzen-und-leihen/bestellmoeglichkeiten/magazine/> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubabsmag> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubtes> .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://xmlns.com/foaf/0.1/homepage> <https://www.ipprdk.uni-rostock.de/institut/einrichtungen-des-instituts/testothek/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://purl.org/dc/elements/1.1/description> "Hinweis: Die Testothek ist eine Bibliothek f\u00FCr psychologische und p\u00E4dagogisch-psychologische Testverfahren. Weil psychologische Tests dem Testschutz unterliegen und nur an berechtigte Personen ausgegeben werden d\u00FCrfen, unterliegt die Einsicht in diese und die Ausleihe dieser Testverfahren besonderen Bestimmungen. Daher k\u00F6nnen nur solche Mitarbeiter/innen und Studierende der Universit\u00E4t Rostock die Testothek nutzen, die f\u00FCr die entsprechenden Verfahren ausgebildet sind oder gerade augebildet werden. Einsicht f\u00FCr oder Ausleihe von Tests an Personen, die nicht der Universit\u00E4t als Mitarbieter/innen oder Studierende angeh\u00F6ren, sind generell ausgeschlossen." .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-2695" .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://xmlns.com/foaf/0.1/name> "Inst. f\u00FCr P\u00E4d. Psychologie: Testothek" .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://www.opengis.net/ont/geosparql#location> _:b15 .
+_:b15 <http://www.opengis.net/ont/geosparql#long> "12.133294" .
+_:b15 <http://www.opengis.net/ont/geosparql#lat> "54.085035" .
+<http://uri.gbv.de/organization/isil/DE-28@locubtes> <http://xmlns.com/foaf/0.1/mbox> <mailto:testothek@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubthephi> .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://purl.org/dc/elements/1.1/description> "Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterst\u00FCtzung ben\u00F6tigen, bitte vor Ihrem Bibliotheksbesuch anrufen." .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/campusbibliothek-innenstadt/fachbibliothek-theologie-und-philosophie/> .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 19:00\nDi 09:00 - 19:00\nMi 09:00 - 19:00\nDo 09:00 - 19:00\nFr 09:00 - 19:00\nSa 10:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8724" .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Theologie und Philosophie" .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://xmlns.com/foaf/0.1/mbox> <mailto:fbgeschichte.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubthephi> <http://www.opengis.net/ont/geosparql#location> _:b16 .
+_:b16 <http://www.opengis.net/ont/geosparql#long> "12.136277" .
+_:b16 <http://www.opengis.net/ont/geosparql#lat> "54.087131" .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://xmlns.com/foaf/0.1/mbox> <mailto:fbvolkskunde.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://www.opengis.net/ont/geosparql#location> _:b17 .
+_:b17 <http://www.opengis.net/ont/geosparql#long> "12.137527" .
+_:b17 <http://www.opengis.net/ont/geosparql#lat> "54.0822" .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Wossidlo-Archiv" .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8728" .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://purl.org/dc/elements/1.1/description> "Hinweis: Der Zugang zur Fachbibliothek ist nicht barrierefrei. Wenn Sie Unterst\u00FCtzung ben\u00F6tigen, bitte vor Ihrem Bibliotheksbesuch anrufen." .
+<http://uri.gbv.de/organization/isil/DE-28@locubwos> <http://xmlns.com/foaf/0.1/homepage> <https://www.ub.uni-rostock.de/standorte-einrichtungen/richard-wossidlo-zentrum/wossidlo-archiv/> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubwos> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubhap1> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Handapparate BB1" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://xmlns.com/foaf/0.1/mbox> <mailto:information-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://xmlns.com/foaf/0.1/homepage> <http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb1.pdf> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://purl.org/dc/elements/1.1/description> "Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zust\u00E4ndige Sekretariat des Lehrstuhls." .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap1> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8640" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubhap2> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://purl.org/dc/elements/1.1/description> "Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zust\u00E4ndige Sekretariat des Lehrstuhls." .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://xmlns.com/foaf/0.1/homepage> <http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb2.pdf> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8712" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Handapparate BB2" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap2> <http://xmlns.com/foaf/0.1/mbox> <mailto:information-bb2.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://xmlns.com/foaf/0.1/mbox> <mailto:information-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Handapparate BB3" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8640" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://purl.org/dc/elements/1.1/description> "Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zust\u00E4ndige Sekretariat des Lehrstuhls." .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap3> <http://xmlns.com/foaf/0.1/homepage> <http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb3.pdf> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubhap3> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://xmlns.com/foaf/0.1/name> "UB Rostock: Handapparate BB4" .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://xmlns.com/foaf/0.1/mbox> <mailto:information-bb1.ub@uni-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://purl.org/dc/elements/1.1/description> "Hinweis: Zur Einsichtnahme wenden Sie sich bitte an das zust\u00E4ndige Sekretariat des Lehrstuhls." .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://xmlns.com/foaf/0.1/homepage> <http://web10.ub.uni-rostock.de/uploads/handapparate/ha_bb4.pdf> .
+<http://uri.gbv.de/organization/isil/DE-28@locubhap4> <http://xmlns.com/foaf/0.1/phone> "+49 381 498-8640" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locubhap4> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@lociow> .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://xmlns.com/foaf/0.1/phone> "+49 381 5197-460" .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://xmlns.com/foaf/0.1/homepage> <https://www.io-warnemuende.de/bibliothek.html> .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@io-warnemuende.de> .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://www.opengis.net/ont/geosparql#location> _:b18 .
+_:b18 <http://www.opengis.net/ont/geosparql#long> "12.081318" .
+_:b18 <http://www.opengis.net/ont/geosparql#lat> "54.1793139" .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@lociow> <http://xmlns.com/foaf/0.1/name> "Leibniz-Institut f\u00FCr Ostseeforschung Warnem\u00FCnde" .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://xmlns.com/foaf/0.1/phone> "+49 38293 68-420" .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://purl.org/ontology/gbv/openinghours> "Mo 08:00 - 12:00\nDi 08:00 - 12:00\nMi 08:00 - 12:00\nDo 08:00 - 12:00\nFr 08:00 - 12:00\nHinweis: Montags bis Freitags ist die Bibliothek von 8-12 Uhr besetzt, ansonsten ist sie f\u00FCr Institutsmitarbeiter st\u00E4ndig ge\u00F6ffnet." .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://xmlns.com/foaf/0.1/homepage> <https://www.iap-kborn.de/bibliothek/> .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://xmlns.com/foaf/0.1/mbox> <mailto:vonrein@iap-kborn.de> .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://www.opengis.net/ont/geosparql#location> _:b19 .
+_:b19 <http://www.opengis.net/ont/geosparql#long> "11.7720973" .
+_:b19 <http://www.opengis.net/ont/geosparql#lat> "54.1169804" .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@lociap> <http://xmlns.com/foaf/0.1/name> "Leibniz-Institut f\u00FCr Atmosph\u00E4renphysik K\u00FChlungsborn" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@lociap> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locfbn> .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://xmlns.com/foaf/0.1/homepage> <https://www.fbn-dummerstorf.de/ueber-uns/wissenschaftsorganisation-und-service/bibliothek/> .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://purl.org/dc/elements/1.1/description> "Hinweis: Termine auch nach Vereinbarung m\u00F6glich." .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://purl.org/ontology/gbv/openinghours> "Mo 07:30 - 15:30\nDi 07:30 - 15:30\nMi 07:30 - 15:30\nDo 07:30 - 15:30\nFr 07:30 - 12:30" .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://xmlns.com/foaf/0.1/phone> "+49 38293 68-614" .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://xmlns.com/foaf/0.1/name> "Forschungsinstitut f\u00FCr Nutztierbiologie (FBN)" .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://www.opengis.net/ont/geosparql#location> _:b20 .
+_:b20 <http://www.opengis.net/ont/geosparql#long> "12.2285557" .
+_:b20 <http://www.opengis.net/ont/geosparql#lat> "54.0124469" .
+<http://uri.gbv.de/organization/isil/DE-28@locfbn> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@fbn-dummerstorf.de> .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://purl.org/dc/elements/1.1/description> "Hinweis: Die \u00D6ffnungszeiten in der vorlesungsfreien Zeit finden Sie auf unserer Homepage." .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://xmlns.com/foaf/0.1/homepage> <https://www.hmt-rostock.de/hochschule/bibliothek/> .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://xmlns.com/foaf/0.1/phone> "+49 381 5108-252" .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 16:00\nDi 10:00 - 16:30\nMi 10:00 - 17:00\nDo 11:00 - 16:30\nFr 10:00 - 13:00" .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://xmlns.com/foaf/0.1/name> "Hochschule f\u00FCr Musik und Theater Rostock" .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://xmlns.com/foaf/0.1/mbox> <mailto:bibliothek@hmt-rostock.de> .
+<http://uri.gbv.de/organization/isil/DE-28@lochmt> <http://www.opengis.net/ont/geosparql#location> _:b21 .
+_:b21 <http://www.opengis.net/ont/geosparql#lat> "54.091279" .
+_:b21 <http://www.opengis.net/ont/geosparql#long> "12.144713" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@lochmt> .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://xmlns.com/foaf/0.1/name> "Bibliothek des Max-Samuel-Hauses Rostock" .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://www.opengis.net/ont/geosparql#location> _:b22 .
+_:b22 <http://www.opengis.net/ont/geosparql#long> "12.136589" .
+_:b22 <http://www.opengis.net/ont/geosparql#lat> "54.077739" .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://xmlns.com/foaf/0.1/mbox> <mailto:info@max-samuel-haus.de> .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://xmlns.com/foaf/0.1/homepage> <http://www.max-samuel-haus.de/> .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://purl.org/dc/elements/1.1/description> "Hinweis:" .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://xmlns.com/foaf/0.1/phone> "+49 381 492 32 09" .
+<http://uri.gbv.de/organization/isil/DE-28@locmsh> <http://purl.org/ontology/gbv/openinghours> "Mo 09:00 - 16:00\nDi 09:00 - 16:00\nMi 09:00 - 16:00\nDo 09:00 - 16:00\nFr 09:00 - 16:00" .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@locmsh> .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://purl.org/ontology/gbv/openinghours> "Mo 10:00 - 18:00\nDi 10:00 - 18:00\nMi 10:00 - 14:00\nDo 10:00 - 18:00\nFr 10:00 - 18:00" .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://xmlns.com/foaf/0.1/phone> "+49 3843 769-465" .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-28> .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://purl.org/dc/elements/1.1/description> "Hinweis: Vorherige Anmeldung erforderlich." .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://xmlns.com/foaf/0.1/homepage> <http://www.uwe-johnson-bibliothek.de/angebote/historische-bibliothek/> .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://xmlns.com/foaf/0.1/mbox> <mailto:uwe.johnson.bibliothek@guestrow.de> .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://www.opengis.net/ont/geosparql#location> _:b23 .
+_:b23 <http://www.opengis.net/ont/geosparql#lat> "53.792670" .
+_:b23 <http://www.opengis.net/ont/geosparql#long> "12.171735" .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://xmlns.com/foaf/0.1/name> "Historische Bibliothek des Museums der Barlachstadt G\u00FCstrow" .
+<http://uri.gbv.de/organization/isil/DE-28@lochbgue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-28> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-28@lochbgue> .

@@ -1,0 +1,1495 @@
+<http://uri.gbv.de/organization/isil/DE-84> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://xmlns.com/foaf/0.1/homepage> <https://katalog.ub.tu-braunschweig.de/vufind/> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://purl.org/dc/elements/1.1/description> "\u00D6ffnungszeiten: https://www.tu-braunschweig.de/ub/wir-ueber-uns/standorte" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://xmlns.com/foaf/0.1/mbox> <mailto:ub@tu-braunschweig.de> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://xmlns.com/foaf/0.1/name> "UB Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@cb> .
+<http://uri.gbv.de/organization/isil/DE-84@cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@cb> <http://xmlns.com/foaf/0.1/name> "Chemie-Magazin" .
+<http://uri.gbv.de/organization/isil/DE-84@cb> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "52.27370999999990" .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "10.53598999999997" .
+<http://uri.gbv.de/organization/isil/DE-84@cb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@cb> <http://purl.org/dc/elements/1.1/description> "Publikationen, die an diesem Ort gelagert sind, k\u00F6nnen bestellt werden." .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@cbz> .
+<http://uri.gbv.de/organization/isil/DE-84@cbz> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "10.53598999999997" .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "52.27370999999990" .
+<http://uri.gbv.de/organization/isil/DE-84@cbz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@cbz> <http://xmlns.com/foaf/0.1/name> "Chemie-Magazin" .
+<http://uri.gbv.de/organization/isil/DE-84@cbz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@cbz> <http://purl.org/dc/elements/1.1/description> "Publikationen, die an diesem Ort gelagert sind, k\u00F6nnen bestellt werden." .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@semapp> .
+<http://uri.gbv.de/organization/isil/DE-84@semapp> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/semapp/> .
+<http://uri.gbv.de/organization/isil/DE-84@semapp> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@semapp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@semapp> <http://xmlns.com/foaf/0.1/name> "Semesterapparat" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://www.opengis.net/ont/geosparql#location> _:b3 .
+_:b3 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b3 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Bestseller" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@best> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@best> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@bszi> .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://www.opengis.net/ont/geosparql#location> _:b4 .
+_:b4 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b4 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@bszi> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Braunschweigzimmer" .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://www.opengis.net/ont/geosparql#location> _:b5 .
+_:b5 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b5 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@dienst> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Dienstexemplar" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@dienst> .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Ausweichmagazin" .
+<http://uri.gbv.de/organization/isil/DE-84@diesel> <http://www.opengis.net/ont/geosparql#location> _:b6 .
+_:b6 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b6 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@diesel> .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Freihandverbuchung" .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://www.opengis.net/ont/geosparql#location> _:b7 .
+_:b7 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b7 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal4> .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@fv> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@fv> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ha> .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ha> <http://www.opengis.net/ont/geosparql#location> _:b8 .
+_:b8 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b8 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Information" .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://www.opengis.net/ont/geosparql#location> _:b9 .
+_:b9 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b9 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://purl.org/ontology/gbv/openinghours> "Mo-Fr 09:00 - 19:00 Uhr\nSa 10:00 - 14:00 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-84@info> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@info> .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Kinderbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://www.opengis.net/ont/geosparql#location> _:b10 .
+_:b10 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b10 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@kibu> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@kibu> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g9> .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://www.opengis.net/ont/geosparql#location> _:b11 .
+_:b11 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b11 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Kunstgeschichte" .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@g9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@kg> .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Kunstgeschichte" .
+<http://uri.gbv.de/organization/isil/DE-84@kg> <http://www.opengis.net/ont/geosparql#location> _:b12 .
+_:b12 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b12 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@lb> .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://www.opengis.net/ont/geosparql#location> _:b13 .
+_:b13 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b13 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lehrbuchsammlung" .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lbs> .
+<http://uri.gbv.de/organization/isil/DE-84@lb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls1> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://www.opengis.net/ont/geosparql#location> _:b14 .
+_:b14 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b14 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 1" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal1> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls1z> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal1> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://www.opengis.net/ont/geosparql#location> _:b15 .
+_:b15 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b15 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 1" .
+<http://uri.gbv.de/organization/isil/DE-84@ls1z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 2" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2> <http://www.opengis.net/ont/geosparql#location> _:b16 .
+_:b16 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b16 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls2> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 2" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://www.opengis.net/ont/geosparql#location> _:b17 .
+_:b17 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b17 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2py> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls2py> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls2z> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 2" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://www.opengis.net/ont/geosparql#location> _:b18 .
+_:b18 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b18 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal2> .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls2z> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls3> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal3> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 3" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3> <http://www.opengis.net/ont/geosparql#location> _:b19 .
+_:b19 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b19 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa\t10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://xmlns.com/foaf/0.1/homepage> <https://ub.tu-braunschweig.de/recherche/lesesaal/?Lesesaal=lesesaal3> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://www.opengis.net/ont/geosparql#location> _:b20 .
+_:b20 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b20 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Lesesaal 3" .
+<http://uri.gbv.de/organization/isil/DE-84@ls3z> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ls3z> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@mag> .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://www.opengis.net/ont/geosparql#location> _:b21 .
+_:b21 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b21 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Magazin" .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t09:00 - 18:45 Uhr\nSa\t10:00 - 21:45 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://purl.org/dc/elements/1.1/description> "Publikationen, die an diesem Ort gelagert sind, k\u00F6nnen bestellt werden. Bestellte Publikationen werden w\u00E4hrend der \u00D6ffnungszeiten des Magazins an die Leihstelle geliefert und k\u00F6nnen dann an der Leihtheke im Erdgeschoss abgeholt werden." .
+<http://uri.gbv.de/organization/isil/DE-84@mag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://www.opengis.net/ont/geosparql#location> _:b22 .
+_:b22 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b22 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Nutzungsgesteuerte Erwerbung (PDA)" .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t09:00 - 18:45 Uhr\nSa\t10:00 - 21:45 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@pda> <http://purl.org/dc/elements/1.1/description> "Titel, die mit diesem Standort gekennzeichnet werden, geh\u00F6ren noch nicht zum Bestand der Universit\u00E4tsbibliothek. F\u00FCr bestellte Publikationen wird von der Universit\u00E4tsbibliothek ein Kauf gepr\u00FCft. Die Bereitstellung erfolgt bei E-Books als Freischaltung f\u00FCr das Universit\u00E4tsnetz und bei gedruckten B\u00FCchern \u00FCber die Leihstelle der UB. \u00DCber die Erwerbungsentscheidung wird der Besteller / die Bestellerin zuvor informiert." .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@pda> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sek> .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://purl.org/dc/elements/1.1/description> "Publikationen, die an diesem Ort gelagert sind, k\u00F6nnen bestellt werden. Bestellte Publikationen werden w\u00E4hrend der \u00D6ffnungszeiten des Magazins an die Leihstelle geliefert und k\u00F6nnen dann an der Leihtheke im Erdgeschoss abgeholt werden." .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t09:00 - 18:45 Uhr\nSa\t10:00 - 21:45 Uhr" .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Magazin" .
+<http://uri.gbv.de/organization/isil/DE-84@sek> <http://www.opengis.net/ont/geosparql#location> _:b23 .
+_:b23 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b23 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Romanistik" .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@q3> <http://www.opengis.net/ont/geosparql#location> _:b24 .
+_:b24 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b24 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q3> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@schn> .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://www.opengis.net/ont/geosparql#location> _:b25 .
+_:b25 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+_:b25 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Sammlung Schneider" .
+<http://uri.gbv.de/organization/isil/DE-84@schn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://www.opengis.net/ont/geosparql#location> _:b26 .
+_:b26 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b26 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - T\u00FCnzelsaal" .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@tue> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@tue> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@fmleih> .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Zeitschriftenfreihandmagazin" .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://www.opengis.net/ont/geosparql#location> _:b27 .
+_:b27 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b27 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa 10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@fmleih> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://www.opengis.net/ont/geosparql#location> _:b28 .
+_:b28 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b28 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Magazin" .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@snhm> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@snhm> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@zfm> .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://www.opengis.net/ont/geosparql#location> _:b29 .
+_:b29 <http://www.opengis.net/ont/geosparql#long> "10.529346" .
+_:b29 <http://www.opengis.net/ont/geosparql#lat> "52.274011" .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://xmlns.com/foaf/0.1/name> "Universit\u00E4tsbibliothek - Freihandmagazin" .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 5018" .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://purl.org/ontology/gbv/openinghours> "Mo - Fr\t07:00 - 23:45 Uhr\nSa 10:00 - 21:45 Uhr\nSo 10:00 - 16:45 Uhr (April, Mai und September bis Dezember)\nSo 10:00 - 21:45 Uhr (Januar bis M\u00E4rz und Juni bis August)" .
+<http://uri.gbv.de/organization/isil/DE-84@zfm> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordtstrasse 23, 8. Og\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2280" .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Wissenschaftliches Rechnen" .
+<http://uri.gbv.de/organization/isil/DE-84@a0> <http://www.opengis.net/ont/geosparql#location> _:b30 .
+_:b30 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+_:b30 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a0> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a1> .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://xmlns.com/foaf/0.1/name> "Physikzentrum der TU" .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://www.opengis.net/ont/geosparql#location> _:b31 .
+_:b31 <http://www.opengis.net/ont/geosparql#long> "10.5471" .
+_:b31 <http://www.opengis.net/ont/geosparql#lat> "52.28033" .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://purl.org/ontology/gbv/address> "Bibliothek\nMendelssohnstr. 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5028" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a2> .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5871" .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://purl.org/ontology/gbv/address> "Humboldtstr. 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Pflanzenbiologie Abteilung f\u00FCr Molekular- und Zellbiologie der Pflanzen" .
+<http://uri.gbv.de/organization/isil/DE-84@a2> <http://www.opengis.net/ont/geosparql#location> _:b32 .
+_:b32 <http://www.opengis.net/ont/geosparql#lat> "52.270187" .
+_:b32 <http://www.opengis.net/ont/geosparql#long> "10.533381200000008" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a4> .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://xmlns.com/foaf/0.1/name> "Bibliothek der mathematischen Institute" .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://www.opengis.net/ont/geosparql#location> _:b33 .
+_:b33 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+_:b33 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://xmlns.com/foaf/0.1/homepage> <http://www.mathematik.tu-bs.de/bmi/> .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7508" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a41> .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://www.opengis.net/ont/geosparql#location> _:b34 .
+_:b34 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+_:b34 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Analysis und Algebra" .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7430 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@a41> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://www.opengis.net/ont/geosparql#location> _:b35 .
+_:b35 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+_:b35 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Analysis und Algebra AG Algebra" .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7424 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a42> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a42> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a43> .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://www.opengis.net/ont/geosparql#location> _:b36 .
+_:b36 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+_:b36 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Numerische Mathematik" .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7537 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a43> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a44> .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Partielle Differentialgleichungen" .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://www.opengis.net/ont/geosparql#location> _:b37 .
+_:b37 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+_:b37 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a44> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7405 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7552" .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://www.opengis.net/ont/geosparql#location> _:b38 .
+_:b38 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+_:b38 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mathematische Optimierung" .
+<http://uri.gbv.de/organization/isil/DE-84@a45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a45> .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://purl.org/ontology/gbv/address> "Universit\u00E4tsplatz 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7567" .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://www.opengis.net/ont/geosparql#location> _:b39 .
+_:b39 <http://www.opengis.net/ont/geosparql#lat> "52.27349779999990" .
+_:b39 <http://www.opengis.net/ont/geosparql#long> "10.529713799999968" .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mathematische Stochastik" .
+<http://uri.gbv.de/organization/isil/DE-84@a46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a46> .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://purl.org/ontology/gbv/address> "Mendelssohnstr. 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5665" .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://www.opengis.net/ont/geosparql#location> _:b40 .
+_:b40 <http://www.opengis.net/ont/geosparql#lat> "52.2799713" .
+_:b40 <http://www.opengis.net/ont/geosparql#long> "10.547182600000042" .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Pharmakologie, Toxikologie und klinische Pharmazie" .
+<http://uri.gbv.de/organization/isil/DE-84@a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a6> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@a9> .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geosysteme und Bioindikation" .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://www.opengis.net/ont/geosparql#location> _:b41 .
+_:b41 <http://www.opengis.net/ont/geosparql#long> "10.53774999999996" .
+_:b41 <http://www.opengis.net/ont/geosparql#lat> "52.27674" .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://purl.org/ontology/gbv/address> "Langer Kamp 19c\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@a9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7246" .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2102" .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://www.opengis.net/ont/geosparql#location> _:b42 .
+_:b42 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+_:b42 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Computergraphik" .
+<http://uri.gbv.de/organization/isil/DE-84@ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ae> .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://purl.org/ontology/gbv/address> "Mendelssohnstr. 2\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8500" .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://www.opengis.net/ont/geosparql#location> _:b43 .
+_:b43 <http://www.opengis.net/ont/geosparql#lat> "52.28033" .
+_:b43 <http://www.opengis.net/ont/geosparql#long> "10.5472" .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@af> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Angewandte Physik" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@af> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@aj> .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://purl.org/ontology/gbv/address> "Mendelssohnstr. 3\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5181; 391-5201 (Sekr)" .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://www.opengis.net/ont/geosparql#location> _:b44 .
+_:b44 <http://www.opengis.net/ont/geosparql#long> "10.547900000000027" .
+_:b44 <http://www.opengis.net/ont/geosparql#lat> "52.28033" .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://xmlns.com/foaf/0.1/name> "Inst. f. Theor. Physik u. Inst. f. Mathem. Physik" .
+<http://uri.gbv.de/organization/isil/DE-84@aj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@ak> .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://xmlns.com/foaf/0.1/name> "Peter L. Reichertz Institut f\u00FCr Medizinische Informatik" .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://www.opengis.net/ont/geosparql#location> _:b45 .
+_:b45 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+_:b45 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordtstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@ak> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2130" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b1> .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geo\u00F6kologie" .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://www.opengis.net/ont/geosparql#location> _:b46 .
+_:b46 <http://www.opengis.net/ont/geosparql#lat> "52.27674" .
+_:b46 <http://www.opengis.net/ont/geosparql#long> "10.53774999999996" .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://purl.org/ontology/gbv/address> "Landschafts\u00F6kologie & Umweltsystemanalyse\nLanger Kamp 19c\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5628" .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://www.opengis.net/ont/geosparql#location> _:b47 .
+_:b47 <http://www.opengis.net/ont/geosparql#lat> "52.2735043" .
+_:b47 <http://www.opengis.net/ont/geosparql#long> "10.53028919999997" .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mikrobiologie Molekulare Infektionsbiologie" .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://purl.org/ontology/gbv/address> "Spielmannstr. 7\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5800" .
+<http://uri.gbv.de/organization/isil/DE-84@b3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b3> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b4> .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://purl.org/ontology/gbv/address> "Hagenring 30\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5271" .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Organische Chemie" .
+<http://uri.gbv.de/organization/isil/DE-84@b4> <http://www.opengis.net/ont/geosparql#location> _:b48 .
+_:b48 <http://www.opengis.net/ont/geosparql#long> "10.53598999999997" .
+_:b48 <http://www.opengis.net/ont/geosparql#lat> "52.27370999999990" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b5> .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5732" .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://purl.org/ontology/gbv/address> "Spielmannstr. 7\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Biochemie, Biotechnologie und Bioinformatik Abt. Biotechnologie" .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b5> <http://www.opengis.net/ont/geosparql#location> _:b49 .
+_:b49 <http://www.opengis.net/ont/geosparql#long> "10.53028919999997" .
+_:b49 <http://www.opengis.net/ont/geosparql#lat> "52.2735043" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b6> .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5339 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://purl.org/ontology/gbv/address> "Gaussstr. 17\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://www.opengis.net/ont/geosparql#location> _:b50 .
+_:b50 <http://www.opengis.net/ont/geosparql#long> "10.531084" .
+_:b50 <http://www.opengis.net/ont/geosparql#lat> "52.273196" .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Physikalische und Theoretische Chemie" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b8> .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://purl.org/ontology/gbv/address> "Hagenring 30\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5360" .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Technische Chemie" .
+<http://uri.gbv.de/organization/isil/DE-84@b8> <http://www.opengis.net/ont/geosparql#location> _:b51 .
+_:b51 <http://www.opengis.net/ont/geosparql#lat> "52.27370999999990" .
+_:b51 <http://www.opengis.net/ont/geosparql#long> "10.53598999999997" .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://www.opengis.net/ont/geosparql#location> _:b52 .
+_:b52 <http://www.opengis.net/ont/geosparql#lat> "52.273498" .
+_:b52 <http://www.opengis.net/ont/geosparql#long> "10.527380999999991" .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Lebensmittelchemie" .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 20, 3. OG\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7202" .
+<http://uri.gbv.de/organization/isil/DE-84@b9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@b9> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c1> .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2751" .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://purl.org/ontology/gbv/address> "Beethovenstr. 55\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://www.opengis.net/ont/geosparql#location> _:b53 .
+_:b53 <http://www.opengis.net/ont/geosparql#lat> "52.28048" .
+_:b53 <http://www.opengis.net/ont/geosparql#long> "10.54517999999996" .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Medizinische und Pharmazeutische Chemie" .
+<http://uri.gbv.de/organization/isil/DE-84@c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://purl.org/ontology/gbv/address> "Mendelssohnstr. 1\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5658" .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://www.opengis.net/ont/geosparql#location> _:b54 .
+_:b54 <http://www.opengis.net/ont/geosparql#long> "10.547182600000042" .
+_:b54 <http://www.opengis.net/ont/geosparql#lat> "52.2799713" .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Pharmazeutische Technologie und Biopharmazie" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c2> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c5> .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://purl.org/ontology/gbv/address> "Spielmannstr. 7/8\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3231" .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://xmlns.com/foaf/0.1/name> "Zoologisches Institut Zellphysiologie" .
+<http://uri.gbv.de/organization/isil/DE-84@c5> <http://www.opengis.net/ont/geosparql#location> _:b55 .
+_:b55 <http://www.opengis.net/ont/geosparql#long> "10.548670000000016" .
+_:b55 <http://www.opengis.net/ont/geosparql#lat> "52.28041" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8a> .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://www.opengis.net/ont/geosparql#location> _:b56 .
+_:b56 <http://www.opengis.net/ont/geosparql#lat> "52.2732939" .
+_:b56 <http://www.opengis.net/ont/geosparql#long> "10.530632200000014" .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie Abtl. Arbeits-, Organisations- u. Sozialpsychologie" .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2547" .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://purl.org/ontology/gbv/address> "Spielmannstr. 19\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8a> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2812" .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://purl.org/ontology/gbv/address> "Humboldtstr. 33\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://www.opengis.net/ont/geosparql#location> _:b57 .
+_:b57 <http://www.opengis.net/ont/geosparql#long> "10.533509999999978" .
+_:b57 <http://www.opengis.net/ont/geosparql#lat> "52.26963" .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8e> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie Abtl. Entwicklungs-, Pers\u00F6nlichkeits- u. Forensische Psychologie" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8e> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8h> .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://purl.org/ontology/gbv/address> "Spielmannstr. 19\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3145" .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/psychologie/abt/serviceeinrichtungen/institutsbibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://www.opengis.net/ont/geosparql#location> _:b58 .
+_:b58 <http://www.opengis.net/ont/geosparql#long> "10.530632200000014" .
+_:b58 <http://www.opengis.net/ont/geosparql#lat> "52.2732939" .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8h> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8i> .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://www.opengis.net/ont/geosparql#location> _:b59 .
+_:b59 <http://www.opengis.net/ont/geosparql#lat> "52.27303999999990" .
+_:b59 <http://www.opengis.net/ont/geosparql#long> "10.531770000000051" .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie Abtl. Ingenieur- und Verkehrspsychologie" .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3651" .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://purl.org/ontology/gbv/address> "Gaussstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8i> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8k> .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://purl.org/ontology/gbv/address> "Humboldtstr. 33\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2855" .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie Abtl. f\u00FCr Klinische Psychologie, Psychotherapie und Diagnostik" .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8k> <http://www.opengis.net/ont/geosparql#location> _:b60 .
+_:b60 <http://www.opengis.net/ont/geosparql#long> "10.533509999999978" .
+_:b60 <http://www.opengis.net/ont/geosparql#lat> "52.26963" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8p> .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://purl.org/ontology/gbv/address> "Spielmannstr. 19\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3145" .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie Abtl. f\u00FCr Psychologische Methodenlehre und Biopsychologie" .
+<http://uri.gbv.de/organization/isil/DE-84@c8p> <http://www.opengis.net/ont/geosparql#location> _:b61 .
+_:b61 <http://www.opengis.net/ont/geosparql#long> "10.530632200000014" .
+_:b61 <http://www.opengis.net/ont/geosparql#lat> "52.2732939" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@d0> .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://purl.org/ontology/gbv/address> "Spielmannstr. 7\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5773" .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Genetik" .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@d0> <http://www.opengis.net/ont/geosparql#location> _:b62 .
+_:b62 <http://www.opengis.net/ont/geosparql#lat> "52.2735043" .
+_:b62 <http://www.opengis.net/ont/geosparql#long> "10.53028919999997" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@d1> .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://purl.org/ontology/gbv/address> "Beethovenstr. 55\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5990" .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/pharmaziegeschichte/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://www.opengis.net/ont/geosparql#location> _:b63 .
+_:b63 <http://www.opengis.net/ont/geosparql#long> "10.54517999999996" .
+_:b63 <http://www.opengis.net/ont/geosparql#lat> "52.28048" .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@d1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Medizinische und Pharmazeutische Chemie Abt. Geschichte der Pharmazie und der Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geophysik und Extraterrestrische Physik" .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://www.opengis.net/ont/geosparql#location> _:b64 .
+_:b64 <http://www.opengis.net/ont/geosparql#long> "10.547900000000027" .
+_:b64 <http://www.opengis.net/ont/geosparql#lat> "52.28033" .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5224" .
+<http://uri.gbv.de/organization/isil/DE-84@e2> <http://purl.org/ontology/gbv/address> "Mendelssohnstr. 3\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@e2> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f1> .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3588" .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Entwerfen und Raumkompositionen" .
+<http://uri.gbv.de/organization/isil/DE-84@f1> <http://www.opengis.net/ont/geosparql#location> _:b65 .
+_:b65 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+_:b65 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f3> .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://www.opengis.net/ont/geosparql#location> _:b66 .
+_:b66 <http://www.opengis.net/ont/geosparql#long> "10.544349300000022" .
+_:b66 <http://www.opengis.net/ont/geosparql#lat> "52.2823958" .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Stahlbau" .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://purl.org/ontology/gbv/address> "Beethovenstr. 51\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3376" .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f3> <http://xmlns.com/foaf/0.1/homepage> <https://www.stahlbau.tu-braunschweig.de/index.php/de/menu-institut-de/menu-bibliothek-de> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f4> .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geomechanik und Geotechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://www.opengis.net/ont/geosparql#location> _:b67 .
+_:b67 <http://www.opengis.net/ont/geosparql#long> "10.548620000000028" .
+_:b67 <http://www.opengis.net/ont/geosparql#lat> "52.28297999999990" .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/igb/institut/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://purl.org/ontology/gbv/address> "Beethovenstr. 51b\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-62001 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f5> .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3 (Okerufer)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94400" .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Entwerfen und Geb\u00E4udelehre" .
+<http://uri.gbv.de/organization/isil/DE-84@f5> <http://www.opengis.net/ont/geosparql#location> _:b68 .
+_:b68 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b68 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f6> .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://purl.org/ontology/gbv/address> "Pockelsstr. 4 (Schleinitzstr.)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2347" .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geschichte und Theorie der Architektur und Stadt" .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f6> <http://www.opengis.net/ont/geosparql#location> _:b69 .
+_:b69 <http://www.opengis.net/ont/geosparql#long> "10.5285665" .
+_:b69 <http://www.opengis.net/ont/geosparql#lat> "52.2732324" .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://xmlns.com/foaf/0.1/name> "Inst. f. Nachhaltigen St\u00E4dtebau u. Inst. f. St\u00E4dtebau u. Entwurfsmethodik" .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://www.opengis.net/ont/geosparql#location> _:b70 .
+_:b70 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b70 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://xmlns.com/foaf/0.1/homepage> <http://www.tu-braunschweig-ise.de/> .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3537; -3538" .
+<http://uri.gbv.de/organization/isil/DE-84@f7> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3, 12. OG\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f7> .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Landschaftsarchitektur" .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://www.opengis.net/ont/geosparql#location> _:b71 .
+_:b71 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b71 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3, 4. OG\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f71> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2365" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f71> .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://www.opengis.net/ont/geosparql#location> _:b72 .
+_:b72 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+_:b72 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Angewandte Mechanik" .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94351" .
+<http://uri.gbv.de/organization/isil/DE-84@f8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f8> .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2523" .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3 (Okerufer)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://www.opengis.net/ont/geosparql#location> _:b73 .
+_:b73 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b73 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@f9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Entwerfen und Baugestaltung" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@f9> .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr rechnergest\u00FCtzte Modellierung im Bauingenieurswesen" .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://www.opengis.net/ont/geosparql#location> _:b74 .
+_:b74 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b74 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@fb> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94501" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@fb> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g0> .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://www.opengis.net/ont/geosparql#location> _:b75 .
+_:b75 <http://www.opengis.net/ont/geosparql#lat> "52.2732324" .
+_:b75 <http://www.opengis.net/ont/geosparql#long> "10.5285664" .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Experimentelles Entwerfen" .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://purl.org/ontology/gbv/address> "Pockelsstr. 4 (Schleinitzstr. 20)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2515" .
+<http://uri.gbv.de/organization/isil/DE-84@g0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://www.opengis.net/ont/geosparql#location> _:b76 .
+_:b76 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+_:b76 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr konstruktives Entwerfen, Industrie- und Gesundheitsbau" .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3 (Okerufer)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2544" .
+<http://uri.gbv.de/organization/isil/DE-84@g1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g1> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g3> .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Gestaltungsmethodik und Darstellung" .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://www.opengis.net/ont/geosparql#location> _:b77 .
+_:b77 <http://www.opengis.net/ont/geosparql#lat> "52.2732" .
+_:b77 <http://www.opengis.net/ont/geosparql#long> "10.53449999999998" .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://purl.org/ontology/gbv/address> "Zimmerstr. 24\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3559" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g4> .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 21b (Steinbaracke)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5922" .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Baukonstruktion" .
+<http://uri.gbv.de/organization/isil/DE-84@g4> <http://www.opengis.net/ont/geosparql#location> _:b78 .
+_:b78 <http://www.opengis.net/ont/geosparql#lat> "52.27367169999999" .
+_:b78 <http://www.opengis.net/ont/geosparql#long> "10.526204199999938" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g5> .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://purl.org/ontology/gbv/address> "Pockelsstr. 4 (Schleinitzstr.)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3571" .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ite/lehre/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://www.opengis.net/ont/geosparql#location> _:b79 .
+_:b79 <http://www.opengis.net/ont/geosparql#lat> "52.2732324" .
+_:b79 <http://www.opengis.net/ont/geosparql#long> "10.5285666" .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Tragwerksentwurf" .
+<http://uri.gbv.de/organization/isil/DE-84@g5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g6> .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3555" .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordtstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://www.opengis.net/ont/geosparql#location> _:b80 .
+_:b80 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+_:b80 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Bauklimatik und Energie der Architektur" .
+<http://uri.gbv.de/organization/isil/DE-84@g6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g7> .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Baustoffe, Massivbau und Brandschutz" .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://www.opengis.net/ont/geosparql#location> _:b81 .
+_:b81 <http://www.opengis.net/ont/geosparql#long> "10.54498000000001" .
+_:b81 <http://www.opengis.net/ont/geosparql#lat> "52.28173" .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ibmb/angebote/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g7> <http://purl.org/ontology/gbv/address> "Beethovenstr. 52\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g8> .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://purl.org/ontology/gbv/address> "Pockelsstr. 4 (Schleinitzstr.)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2524" .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/baugeschichte/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://www.opengis.net/ont/geosparql#location> _:b82 .
+_:b82 <http://www.opengis.net/ont/geosparql#long> "10.5285667" .
+_:b82 <http://www.opengis.net/ont/geosparql#lat> "52.2732324" .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Baugeschichte" .
+<http://uri.gbv.de/organization/isil/DE-84@g8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@g81> .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2525" .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://purl.org/ontology/gbv/address> "Pockelsstr. 4\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://www.opengis.net/ont/geosparql#location> _:b83 .
+_:b83 <http://www.opengis.net/ont/geosparql#long> "10.5285662" .
+_:b83 <http://www.opengis.net/ont/geosparql#lat> "52.2732324" .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@g81> <http://xmlns.com/foaf/0.1/name> "Bet Tfila, Forschungsstelle f\u00FCr j\u00FCdische Architektur in Europa" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h1> .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 21a (Steinbaracke)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7801" .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://www.opengis.net/ont/geosparql#location> _:b84 .
+_:b84 <http://www.opengis.net/ont/geosparql#lat> "52.27367169999999" .
+_:b84 <http://www.opengis.net/ont/geosparql#long> "10.526204199999938" .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Baukonstruktion und Holzbau" .
+<http://uri.gbv.de/organization/isil/DE-84@h1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://www.opengis.net/ont/geosparql#location> _:b85 .
+_:b85 <http://www.opengis.net/ont/geosparql#long> "10.527581800000007" .
+_:b85 <http://www.opengis.net/ont/geosparql#lat> "52.272654" .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://xmlns.com/foaf/0.1/name> "Inst. f. Eisenbahnwesen u. Verkehrssicherung u. Inst. f. Verkehrswesen, Eisenbahnbau u. -betrieb" .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://purl.org/ontology/gbv/address> "Pockelsstr. 3 (Okerufer)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94450 (Sekr.); 63600" .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ive/lehre/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@h2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h2> .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://www.opengis.net/ont/geosparql#location> _:b86 .
+_:b86 <http://www.opengis.net/ont/geosparql#lat> "52.3145378" .
+_:b86 <http://www.opengis.net/ont/geosparql#long> "10.542056600000024" .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Verkehr und Stadtbauwesen" .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 42\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-66800" .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ivs/institut/institutsbibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@h3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h3> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h4> .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Stra\u00DFenwesen" .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://www.opengis.net/ont/geosparql#location> _:b87 .
+_:b87 <http://www.opengis.net/ont/geosparql#lat> "52.28297999999990" .
+_:b87 <http://www.opengis.net/ont/geosparql#long> "10.548620000000028" .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-62062" .
+<http://uri.gbv.de/organization/isil/DE-84@h4> <http://purl.org/ontology/gbv/address> "Beethovenstr. 51b\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://purl.org/ontology/gbv/address> "Beethovenstr. 51a\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3972" .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/lwi/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://www.opengis.net/ont/geosparql#location> _:b88 .
+_:b88 <http://www.opengis.net/ont/geosparql#long> "10.548185500000045" .
+_:b88 <http://www.opengis.net/ont/geosparql#lat> "52.2840858" .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://xmlns.com/foaf/0.1/name> "Leichtwei\u00DF-Institut f\u00FCr Wasserbau" .
+<http://uri.gbv.de/organization/isil/DE-84@h5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h5> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h6> .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ibb/lehre/institutsbibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3175" .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 23a\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Bauwirtschaft und -betrieb" .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h6> <http://www.opengis.net/ont/geosparql#location> _:b89 .
+_:b89 <http://www.opengis.net/ont/geosparql#long> "10.528196600000001" .
+_:b89 <http://www.opengis.net/ont/geosparql#lat> "52.27377689999999" .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geod\u00E4sie und Photogrammetrie" .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://www.opengis.net/ont/geosparql#location> _:b90 .
+_:b90 <http://www.opengis.net/ont/geosparql#lat> "52.286180" .
+_:b90 <http://www.opengis.net/ont/geosparql#long> "10.539770" .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94574" .
+<http://uri.gbv.de/organization/isil/DE-84@h7> <http://purl.org/ontology/gbv/address> "Bienroder Weg 81\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h7> .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://www.opengis.net/ont/geosparql#location> _:b91 .
+_:b91 <http://www.opengis.net/ont/geosparql#lat> "52.2823958" .
+_:b91 <http://www.opengis.net/ont/geosparql#long> "10.544349300000022" .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Bauwerkserhaltung und Tragwerk" .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://purl.org/ontology/gbv/address> "Beethovenstr. 51\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2512" .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@h8> <http://xmlns.com/foaf/0.1/homepage> <http://www.ibt.tu-braunschweig.de/index.php/menu-institut-de/menu-bibliothek-de> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@h8> .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://www.opengis.net/ont/geosparql#location> _:b92 .
+_:b92 <http://www.opengis.net/ont/geosparql#lat> "52.2726899" .
+_:b92 <http://www.opengis.net/ont/geosparql#long> "10.526943200000005" .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Siedlungswasserwirtschaft" .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7946" .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://purl.org/ontology/gbv/address> "Pockelsstr. 2a (Okerufer)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/isww/team> .
+<http://uri.gbv.de/organization/isil/DE-84@i0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@i0> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l1> .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 20\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7002" .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://xmlns.com/foaf/0.1/name> "Mechanikzentrum" .
+<http://uri.gbv.de/organization/isil/DE-84@l1> <http://www.opengis.net/ont/geosparql#location> _:b93 .
+_:b93 <http://www.opengis.net/ont/geosparql#long> "10.527380999999991" .
+_:b93 <http://www.opengis.net/ont/geosparql#lat> "52.273498" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l4> .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Nachrichtentechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://www.opengis.net/ont/geosparql#location> _:b94 .
+_:b94 <http://www.opengis.net/ont/geosparql#lat> "52.273423" .
+_:b94 <http://www.opengis.net/ont/geosparql#long> "10.525879000000032" .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 22\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2474" .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3774" .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Halbleitertechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@l5> <http://www.opengis.net/ont/geosparql#location> _:b95 .
+_:b95 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+_:b95 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l5> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l6> .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://www.opengis.net/ont/geosparql#location> _:b96 .
+_:b96 <http://www.opengis.net/ont/geosparql#lat> "52.31395" .
+_:b96 <http://www.opengis.net/ont/geosparql#long> "10.548990000000003" .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Raumfahrtsysteme" .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 23\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-9961" .
+<http://uri.gbv.de/organization/isil/DE-84@l6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7601" .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://purl.org/ontology/gbv/address> "Langer Kamp 19b\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/iwf/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://www.opengis.net/ont/geosparql#location> _:b97 .
+_:b97 <http://www.opengis.net/ont/geosparql#long> "10.537710000000061" .
+_:b97 <http://www.opengis.net/ont/geosparql#lat> "52.27703" .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Werkzeugmaschinen und Fertigungstechnik" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l7> .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Fahrzeugtechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://www.opengis.net/ont/geosparql#location> _:b98 .
+_:b98 <http://www.opengis.net/ont/geosparql#long> "10.536879999999996" .
+_:b98 <http://www.opengis.net/ont/geosparql#lat> "52.27602" .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 4\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2610" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l8> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l9> .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Stra\u00DFe 42\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-66301 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Intermodale Transport- und Logistiksysteme" .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l9> <http://www.opengis.net/ont/geosparql#location> _:b99 .
+_:b99 <http://www.opengis.net/ont/geosparql#long> "10.542056600000024" .
+_:b99 <http://www.opengis.net/ont/geosparql#lat> "52.3145378" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@lc> .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-9750" .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://purl.org/ontology/gbv/address> "Alte Salzdahlumer Str. 203\n38124 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/imt/forschung/ausstattung/vorlage-fuer-geraete-1> .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://www.opengis.net/ont/geosparql#location> _:b100 .
+_:b100 <http://www.opengis.net/ont/geosparql#long> "10.533680000000004" .
+_:b100 <http://www.opengis.net/ont/geosparql#lat> "52.24352" .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mikrotechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@lc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 20\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7028" .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Produktionsme\u00DFtechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@m0> <http://www.opengis.net/ont/geosparql#location> _:b101 .
+_:b101 <http://www.opengis.net/ont/geosparql#lat> "52.273498" .
+_:b101 <http://www.opengis.net/ont/geosparql#long> "10.527380999999991" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m0> .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-9903" .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 35\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://www.opengis.net/ont/geosparql#location> _:b102 .
+_:b102 <http://www.opengis.net/ont/geosparql#lat> "52.31403049999990" .
+_:b102 <http://www.opengis.net/ont/geosparql#long> "10.546158300000002" .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Flugzeugbau und Leichtbau" .
+<http://uri.gbv.de/organization/isil/DE-84@m1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m1> .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 27\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-9802" .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Flugf\u00FChrung" .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m3> <http://www.opengis.net/ont/geosparql#location> _:b103 .
+_:b103 <http://www.opengis.net/ont/geosparql#long> "10.548239800000033" .
+_:b103 <http://www.opengis.net/ont/geosparql#lat> "52.3138324" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m3> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m4> .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://purl.org/ontology/gbv/address> "Langer Kamp 6\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2681" .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://www.opengis.net/ont/geosparql#location> _:b104 .
+_:b104 <http://www.opengis.net/ont/geosparql#lat> "52.27739" .
+_:b104 <http://www.opengis.net/ont/geosparql#long> "10.538540000000012" .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Mechanik und Adaptronik" .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://www.opengis.net/ont/geosparql#location> _:b105 .
+_:b105 <http://www.opengis.net/ont/geosparql#long> "10.542056600000024" .
+_:b105 <http://www.opengis.net/ont/geosparql#lat> "52.3145378" .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Konstruktionstechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 42\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3343" .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ik/institut/ausstattung> .
+<http://uri.gbv.de/organization/isil/DE-84@m5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m5> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m6> .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr mobile Maschinen und Nutzfahrzeuge" .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://www.opengis.net/ont/geosparql#location> _:b106 .
+_:b106 <http://www.opengis.net/ont/geosparql#lat> "52.27776" .
+_:b106 <http://www.opengis.net/ont/geosparql#long> "10.537410000000023" .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://purl.org/ontology/gbv/address> "Langer Kamp 19a\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2672" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m7> .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Flugantriebe und Str\u00F6mungsmaschinen" .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://www.opengis.net/ont/geosparql#location> _:b107 .
+_:b107 <http://www.opengis.net/ont/geosparql#long> "10.543860399999971" .
+_:b107 <http://www.opengis.net/ont/geosparql#lat> "52.3142729" .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 37\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94201" .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://www.opengis.net/ont/geosparql#location> _:b108 .
+_:b108 <http://www.opengis.net/ont/geosparql#lat> "52.3145378" .
+_:b108 <http://www.opengis.net/ont/geosparql#long> "10.542056600000024" .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Verbrennungskraftmaschinen und Brennstoffzellen" .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://purl.org/ontology/gbv/address> "Hermann-Blenk-Str. 42\n38108 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-66900" .
+<http://uri.gbv.de/organization/isil/DE-84@m8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m8> .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Thermodynamik" .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://www.opengis.net/ont/geosparql#location> _:b109 .
+_:b109 <http://www.opengis.net/ont/geosparql#lat> "52.27627" .
+_:b109 <http://www.opengis.net/ont/geosparql#long> "10.537609999999972" .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 5\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@m9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2627" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@m9> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n0> .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://www.opengis.net/ont/geosparql#location> _:b110 .
+_:b110 <http://www.opengis.net/ont/geosparql#lat> "52.27846" .
+_:b110 <http://www.opengis.net/ont/geosparql#long> "10.539980000000014" .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Energie- und Systemverfahrenstechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://purl.org/ontology/gbv/address> "Franz-Liszt-Str. 35\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3043" .
+<http://uri.gbv.de/organization/isil/DE-84@n0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n1> .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr chemische und thermische Verfahrenstechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://www.opengis.net/ont/geosparql#location> _:b111 .
+_:b111 <http://www.opengis.net/ont/geosparql#lat> "52.27773999999990" .
+_:b111 <http://www.opengis.net/ont/geosparql#long> "10.540340000000015" .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://purl.org/ontology/gbv/address> "Langer Kamp 7\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2781" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n3> .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Partikeltechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://www.opengis.net/ont/geosparql#location> _:b112 .
+_:b112 <http://www.opengis.net/ont/geosparql#long> "10.565510000000017" .
+_:b112 <http://www.opengis.net/ont/geosparql#lat> "52.28763" .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://purl.org/ontology/gbv/address> "Volkmaroder Str. 5\n38104 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-9611" .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://www.opengis.net/ont/geosparql#location> _:b113 .
+_:b113 <http://www.opengis.net/ont/geosparql#lat> "52.27791999999990" .
+_:b113 <http://www.opengis.net/ont/geosparql#long> "10.537329999999997" .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Fabrikbetriebslehre und Unternehmensforschung" .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2710" .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://purl.org/ontology/gbv/address> "Langer Kamp 19\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n5> .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-95501" .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://purl.org/ontology/gbv/address> "Langer Kamp 8\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://www.opengis.net/ont/geosparql#location> _:b114 .
+_:b114 <http://www.opengis.net/ont/geosparql#lat> "52.27799" .
+_:b114 <http://www.opengis.net/ont/geosparql#long> "10.538000000000011" .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr F\u00FCge- und Schwei\u00DFtechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@n6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n6> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n7> .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://purl.org/ontology/gbv/address> "Langer Kamp 8\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3068" .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://www.opengis.net/ont/geosparql#location> _:b115 .
+_:b115 <http://www.opengis.net/ont/geosparql#long> "10.538000000000011" .
+_:b115 <http://www.opengis.net/ont/geosparql#lat> "52.27799" .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Werkstoffe" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@n9> .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://www.opengis.net/ont/geosparql#location> _:b116 .
+_:b116 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+_:b116 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Elektrische Maschinen, Antriebe und Bahnen" .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3913" .
+<http://uri.gbv.de/organization/isil/DE-84@n9> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7737" .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Hochspannungstechnik und Elektr. Energieanl." .
+<http://uri.gbv.de/organization/isil/DE-84@o0> <http://www.opengis.net/ont/geosparql#location> _:b117 .
+_:b117 <http://www.opengis.net/ont/geosparql#long> "10.528196600000001" .
+_:b117 <http://www.opengis.net/ont/geosparql#lat> "52.27377689999999" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@o0> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@o2> .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3840" .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://xmlns.com/foaf/0.1/homepage> <https://www.ifr.ing.tu-bs.de/de/institut/bibliothek/> .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://www.opengis.net/ont/geosparql#location> _:b118 .
+_:b118 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+_:b118 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Regelungstechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@o2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3867" .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Elektrische Me\u00DFtechnik und Grundlagen der Elektrotechnik" .
+<http://uri.gbv.de/organization/isil/DE-84@o3> <http://www.opengis.net/ont/geosparql#location> _:b119 .
+_:b119 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+_:b119 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@o3> .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://www.opengis.net/ont/geosparql#location> _:b120 .
+_:b120 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+_:b120 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr CMOS Design" .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3163" .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@o4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@o4> .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Datentechnik und Kommunikationsnetze" .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://www.opengis.net/ont/geosparql#location> _:b121 .
+_:b121 <http://www.opengis.net/ont/geosparql#long> "10.54024800000002" .
+_:b121 <http://www.opengis.net/ont/geosparql#lat> "52.276328" .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://purl.org/ontology/gbv/address> "Hans-Sommer-Str. 66\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@o5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3734" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@o5> .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://purl.org/ontology/gbv/address> "Abt. Literatur u. Kulturwissenschaften\nAbt. Sprachwissenschaft\nBienroder Weg 80 (Bibliothek: Nr. 95)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord> .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://www.opengis.net/ont/geosparql#location> _:b122 .
+_:b122 <http://www.opengis.net/ont/geosparql#long> "10.538729999999987" .
+_:b122 <http://www.opengis.net/ont/geosparql#lat> "52.28585" .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@q2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Anglistik und Amerikanistik" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q2> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q4> .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://purl.org/ontology/gbv/address> "Schleinitzstr. 20\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3099" .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/inge/institut/bibliothek/hans-ulrich-ludewig-bibliothek-institutsbibliothek-fw> .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://www.opengis.net/ont/geosparql#location> _:b123 .
+_:b123 <http://www.opengis.net/ont/geosparql#lat> "52.273498" .
+_:b123 <http://www.opengis.net/ont/geosparql#long> "10.527380999999991" .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geschichtswissenschaft Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-84@q4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q5> .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://www.opengis.net/ont/geosparql#location> _:b124 .
+_:b124 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+_:b124 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://xmlns.com/foaf/0.1/name> "Bibliothek f\u00FCr Sozialwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://purl.org/ontology/gbv/address> "Bienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8925 (Bibl)" .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/isw/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@q5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Germanistik Abt. Linguistik und Medi\u00E4vistik" .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://www.opengis.net/ont/geosparql#location> _:b125 .
+_:b125 <http://www.opengis.net/ont/geosparql#long> "10.538729999999987" .
+_:b125 <http://www.opengis.net/ont/geosparql#lat> "52.28585" .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord> .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://purl.org/ontology/gbv/address> "Bienroder Weg 80 (Bibliothek: Nr. 95)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q6> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@q8> .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://www.opengis.net/ont/geosparql#location> _:b126 .
+_:b126 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+_:b126 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Erziehungswissenschaften Abt. Weiterbildung und Medien" .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://purl.org/ontology/gbv/address> "Bienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8816" .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@q8> <http://xmlns.com/foaf/0.1/homepage> <http://www.tu-braunschweig.de/wbm/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r1> .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://purl.org/ontology/gbv/address> "Abt-Jerusalem-Str. 4\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3202" .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://www.opengis.net/ont/geosparql#location> _:b127 .
+_:b127 <http://www.opengis.net/ont/geosparql#long> "10.530482099999972" .
+_:b127 <http://www.opengis.net/ont/geosparql#lat> "52.2728698" .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Marketing und Innovation" .
+<http://uri.gbv.de/organization/isil/DE-84@r1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r2> .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordtstr. 23\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-7451" .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://www.opengis.net/ont/geosparql#location> _:b128 .
+_:b128 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+_:b128 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r2> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Robotik und Proze\u00DFinformatik" .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/controlling/institutsbibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://purl.org/ontology/gbv/address> "Fallersleber-Tor-Wall 23\n38100 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3608" .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Controlling und Unternehmensrechnung" .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r3> <http://www.opengis.net/ont/geosparql#location> _:b129 .
+_:b129 <http://www.opengis.net/ont/geosparql#long> "10.530254799999966" .
+_:b129 <http://www.opengis.net/ont/geosparql#lat> "52.2698839" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r3> .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Wirtschaftsinformatik, Lehrstuhl f\u00FCr Decision Support" .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://www.opengis.net/ont/geosparql#location> _:b130 .
+_:b130 <http://www.opengis.net/ont/geosparql#long> "10.525139999999965" .
+_:b130 <http://www.opengis.net/ont/geosparql#lat> "52.27303" .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/winfo/team/sekretariat> .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://purl.org/ontology/gbv/address> "M\u00FChlenpfordtstr. 23, 5.OG\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3211" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r4> .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/orgfue/studium/institutsbibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://purl.org/ontology/gbv/address> "Abt-Jerusalem-Str. 4\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2871 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Unternehmensf\u00FChrung und Organisation" .
+<http://uri.gbv.de/organization/isil/DE-84@r5> <http://www.opengis.net/ont/geosparql#location> _:b131 .
+_:b131 <http://www.opengis.net/ont/geosparql#long> "10.530482099999972" .
+_:b131 <http://www.opengis.net/ont/geosparql#lat> "52.2728698" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r5> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r6> .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Rechtswissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://www.opengis.net/ont/geosparql#location> _:b132 .
+_:b132 <http://www.opengis.net/ont/geosparql#lat> "52.2851198" .
+_:b132 <http://www.opengis.net/ont/geosparql#long> "10.538257899999962" .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/recht/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://purl.org/ontology/gbv/address> "Bienroder Weg 87\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2461 (Sekr)" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r7> .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://purl.org/ontology/gbv/address> "Abt-Jerusalem-Str. 7\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2896 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://www.opengis.net/ont/geosparql#location> _:b133 .
+_:b133 <http://www.opengis.net/ont/geosparql#lat> "52.2725608" .
+_:b133 <http://www.opengis.net/ont/geosparql#long> "10.530492900000013" .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r7> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Finanzwirtschaft" .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://purl.org/ontology/gbv/address> "Bienroder Weg 80 (Bibliothek: Nr. 95)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/philosophie/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://www.opengis.net/ont/geosparql#location> _:b134 .
+_:b134 <http://www.opengis.net/ont/geosparql#lat> "52.28585" .
+_:b134 <http://www.opengis.net/ont/geosparql#long> "10.538729999999987" .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@s1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Philosophie" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@s1> .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://xmlns.com/foaf/0.1/homepage> <http://www.tu-braunschweig.de/schulpaedagogik/biblio> .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8808 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://purl.org/ontology/gbv/address> "Bienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Erziehungswissenschaften Abt. Schulp\u00E4d. U. Allg. Didaktik" .
+<http://uri.gbv.de/organization/isil/DE-84@s3> <http://www.opengis.net/ont/geosparql#location> _:b135 .
+_:b135 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+_:b135 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@s3> .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Braunschweigische Regionalgeschichte und Geschichtsvermittlung" .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://www.opengis.net/ont/geosparql#location> _:b136 .
+_:b136 <http://www.opengis.net/ont/geosparql#lat> "52.2698839" .
+_:b136 <http://www.opengis.net/ont/geosparql#long> "10.530254799999966" .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ibrg> .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://purl.org/ontology/gbv/address> "Fallersleber-Tor-Wall 23\n38100 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@s4> <http://xmlns.com/foaf/0.1/phone> "+49 531 1219674 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@s4> .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Erziehungswissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://www.opengis.net/ont/geosparql#location> _:b137 .
+_:b137 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+_:b137 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik> .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://purl.org/ontology/gbv/address> "Lernwerkstatt Schulp\u00E4dagogik\nBienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@s5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8845" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@s5> .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://www.opengis.net/ont/geosparql#location> _:b138 .
+_:b138 <http://www.opengis.net/ont/geosparql#lat> "52.2850261" .
+_:b138 <http://www.opengis.net/ont/geosparql#long> "10.53865769999993" .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr P\u00E4dagogische Psychologie" .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://purl.org/ontology/gbv/address> "Bienroder Weg 82 im Keller\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94000" .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ipp/studi/bib> .
+<http://uri.gbv.de/organization/isil/DE-84@s6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@s6> .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord> .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://purl.org/ontology/gbv/address> "Abt. Didaktik der deutschen Sprache und Literatur\nBienroder Weg 80 (Bibliothek: Nr. 95)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Germanistik Did" .
+<http://uri.gbv.de/organization/isil/DE-84@sc> <http://www.opengis.net/ont/geosparql#location> _:b139 .
+_:b139 <http://www.opengis.net/ont/geosparql#lat> "52.28585" .
+_:b139 <http://www.opengis.net/ont/geosparql#long> "10.538729999999987" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sc> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sd> .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord> .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://purl.org/ontology/gbv/address> "Abt. Didaktik\nBienroder Weg 80 (Bibliothek: Nr. 95)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Anglistik und Amerikanistik" .
+<http://uri.gbv.de/organization/isil/DE-84@sd> <http://www.opengis.net/ont/geosparql#location> _:b140 .
+_:b140 <http://www.opengis.net/ont/geosparql#long> "10.538729999999987" .
+_:b140 <http://www.opengis.net/ont/geosparql#lat> "52.28585" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sg> .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://purl.org/ontology/gbv/address> "Abt. Geschichte und Geschichtsdidaktik\nBienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8630" .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/inge/institut/bibliothek/institutsbibliothek-gd> .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://www.opengis.net/ont/geosparql#location> _:b141 .
+_:b141 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+_:b141 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sg> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Geschichtswissenschaft" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sm1> .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Didaktik der Mathematik und Elementarmathematik" .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://www.opengis.net/ont/geosparql#location> _:b142 .
+_:b142 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+_:b142 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://xmlns.com/foaf/0.1/homepage> <http://www.tu-braunschweig.de/idm/labor> .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://purl.org/ontology/gbv/address> "Didaktisches Labor\nBienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sm1> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8861 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Musik und ihre Vermittlung" .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://www.opengis.net/ont/geosparql#location> _:b143 .
+_:b143 <http://www.opengis.net/ont/geosparql#long> "10.53022379999993" .
+_:b143 <http://www.opengis.net/ont/geosparql#lat> "52.2752379" .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/musik/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://purl.org/ontology/gbv/address> "Rebenring 58\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sp> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3488" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sp> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sr> .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/chancengleichheit/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://purl.org/ontology/gbv/address> "B\u00FCltenweg 17\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-4545" .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://xmlns.com/foaf/0.1/name> "Stabstelle Chancengleichheit" .
+<http://uri.gbv.de/organization/isil/DE-84@sr> <http://www.opengis.net/ont/geosparql#location> _:b144 .
+_:b144 <http://www.opengis.net/ont/geosparql#lat> "52.27442449999990" .
+_:b144 <http://www.opengis.net/ont/geosparql#long> "10.533511699999963" .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://xmlns.com/foaf/0.1/name> "Career Service" .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://www.opengis.net/ont/geosparql#location> _:b145 .
+_:b145 <http://www.opengis.net/ont/geosparql#long> "10.534080000000017" .
+_:b145 <http://www.opengis.net/ont/geosparql#lat> "52.27611" .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://purl.org/ontology/gbv/address> "Rebenring 33\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@su> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-4339" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@su> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sv> .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://xmlns.com/foaf/0.1/name> "Kooperationsstelle Hochschule-Gewerkschaften SON" .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://www.opengis.net/ont/geosparql#location> _:b146 .
+_:b146 <http://www.opengis.net/ont/geosparql#lat> "52.27611" .
+_:b146 <http://www.opengis.net/ont/geosparql#long> "10.534080000000017" .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://purl.org/ontology/gbv/address> "B\u00FCltenweg 17\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sv> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-4280" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sx> .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://www.opengis.net/ont/geosparql#location> _:b147 .
+_:b147 <http://www.opengis.net/ont/geosparql#lat> "52.2729008" .
+_:b147 <http://www.opengis.net/ont/geosparql#long> "10.534324900000001" .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://xmlns.com/foaf/0.1/name> "Bunte Bibliothek" .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://purl.org/ontology/gbv/address> "Zimmerstr. 24d\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-4589" .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://xmlns.com/foaf/0.1/homepage> <https://buntebib.asta.tu-braunschweig.de> .
+<http://uri.gbv.de/organization/isil/DE-84@sx> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@sy> .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/fk6/institute-einrichtungen/bibliotheken/campus-nord> .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://purl.org/ontology/gbv/address> "Sachunterricht und seine Didaktik\nBienroder Weg 95 (Bibliothek)\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8883" .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Fachdidaktik der Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@sy> <http://www.opengis.net/ont/geosparql#location> _:b148 .
+_:b148 <http://www.opengis.net/ont/geosparql#long> "10.53827810000007" .
+_:b148 <http://www.opengis.net/ont/geosparql#lat> "52.2852197" .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://www.opengis.net/ont/geosparql#location> _:b149 .
+_:b149 <http://www.opengis.net/ont/geosparql#long> "10.534080000000017" .
+_:b149 <http://www.opengis.net/ont/geosparql#lat> "52.27611" .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://xmlns.com/foaf/0.1/name> "Sprachenzentrum der TU Braunschweig / International House" .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://purl.org/ontology/gbv/address> "B\u00FCltenweg 74/75, Raum -133\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-5086" .
+<http://uri.gbv.de/organization/isil/DE-84@t2> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@t2> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@t3> .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://www.opengis.net/ont/geosparql#location> _:b150 .
+_:b150 <http://www.opengis.net/ont/geosparql#lat> "52.28569220210539" .
+_:b150 <http://www.opengis.net/ont/geosparql#long> "10.540427003403979" .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Fachdidaktik\u00A0der\u00A0Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://purl.org/ontology/gbv/address> "Abt.\u00A0Biologiedidaktik\nBienroder Weg 82\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94095" .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ifdn/biologie/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@t3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://xmlns.com/foaf/0.1/homepage> <http://www.tu-braunschweig.de/theologie/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8896 (Bibl)" .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://purl.org/ontology/gbv/address> "Bienroder Weg 97\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://xmlns.com/foaf/0.1/name> "Seminar f\u00FCr Evangelische Theologie und Religionsp\u00E4dagogik" .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@t4> <http://www.opengis.net/ont/geosparql#location> _:b151 .
+_:b151 <http://www.opengis.net/ont/geosparql#lat> "52.2836989" .
+_:b151 <http://www.opengis.net/ont/geosparql#long> "10.538747899999976" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@t4> .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://purl.org/ontology/gbv/address> "Abt. Chemie und ihre Didaktik\nBienroder Weg 82\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-94111" .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/ifdn/chemie/bibliothek> .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://www.opengis.net/ont/geosparql#location> _:b152 .
+_:b152 <http://www.opengis.net/ont/geosparql#lat> "52.2850261" .
+_:b152 <http://www.opengis.net/ont/geosparql#long> "10.53865769999993" .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Fachdidaktik der Naturwissenschaften" .
+<http://uri.gbv.de/organization/isil/DE-84@t5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@t5> .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://www.opengis.net/ont/geosparql#location> _:b153 .
+_:b153 <http://www.opengis.net/ont/geosparql#lat> "52.274762" .
+_:b153 <http://www.opengis.net/ont/geosparql#long> "10.529269" .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Sportwissenschaft und Bewegungsp\u00E4dagogik" .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://purl.org/ontology/gbv/address> "Pockelsstr. 11\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-3433" .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@t6> <http://xmlns.com/foaf/0.1/homepage> <https://www.tu-braunschweig.de/sportwissenschaft/biblio> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@t6> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@r8> .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-2578 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://purl.org/ontology/gbv/address> "Spielmannstr. 9\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Volkswirtschaftslehre" .
+<http://uri.gbv.de/organization/isil/DE-84@r8> <http://www.opengis.net/ont/geosparql#location> _:b154 .
+_:b154 <http://www.opengis.net/ont/geosparql#lat> "52.273552" .
+_:b154 <http://www.opengis.net/ont/geosparql#long> "10.530881" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@museum> .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://xmlns.com/foaf/0.1/name> "Staatliches Naturhistorisches Museum" .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://www.opengis.net/ont/geosparql#location> _:b155 .
+_:b155 <http://www.opengis.net/ont/geosparql#lat> "52.275333" .
+_:b155 <http://www.opengis.net/ont/geosparql#long> "10.530451" .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://purl.org/ontology/gbv/address> "Pockelsstr. 10\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@museum> <http://xmlns.com/foaf/0.1/phone> "+49 531 1225-3000" .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@l3> .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://www.opengis.net/ont/geosparql#location> _:b156 .
+_:b156 <http://www.opengis.net/ont/geosparql#long> "10.537329999999997" .
+_:b156 <http://www.opengis.net/ont/geosparql#lat> "52.27791999999990" .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Akustik und Dynamik" .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://purl.org/ontology/gbv/address> "Langer Kamp 19\n38106 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://xmlns.com/foaf/0.1/phone> "+49 531 391-8771 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@l3> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://www.opengis.net/ont/geosparql#location> _:b157 .
+_:b157 <http://www.opengis.net/ont/geosparql#lat> "52.2698839" .
+_:b157 <http://www.opengis.net/ont/geosparql#long> "10.530254799999966" .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://xmlns.com/foaf/0.1/name> "Institut f\u00FCr Psychologie" .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://purl.org/ontology/gbv/address> "Lehrstuhl Psychologie soziotechnischer Systeme\nFallersleber-Tor-Wall 23\n38100 Braunschweig" .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://xmlns.com/foaf/0.1/phone> "+49 531 391 2559 (Sekr.)" .
+<http://uri.gbv.de/organization/isil/DE-84@c8s> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-84> .
+<http://uri.gbv.de/organization/isil/DE-84> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-84@c8s> .

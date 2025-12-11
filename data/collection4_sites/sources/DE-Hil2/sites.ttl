@@ -1,0 +1,123 @@
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://xmlns.com/foaf/0.1/name> "UB Hildesheim" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@ami> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ami> <http://xmlns.com/foaf/0.1/name> "Magazin Mediothek" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ami> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ami> <http://purl.org/dc/elements/1.1/description> "F\u00FCr Titel aus dem Magazin Mediothek nutzen Sie bitte den Bestellen-Link.\nBestellte Titel stehen am n\u00E4chsten Tag an der Leihtheke f\u00FCr Sie bereit." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://www.opengis.net/ont/geosparql#location> _:b1 .
+_:b1 <http://www.opengis.net/ont/geosparql#long> "9.982790" .
+_:b1 <http://www.opengis.net/ont/geosparql#lat> "52.115046" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://xmlns.com/foaf/0.1/name> "AZP - Bibliothek des Instituts f\u00FCr Philosophie" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://xmlns.com/foaf/0.1/phone> "+49 5121 8 83-21110" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://purl.org/ontology/gbv/address> "Kulturcampus Dom\u00E4ne Marienburg\nWei\u00DFes Haus (Haus 46), Raum 003\nDom\u00E4nenstra\u00DFe 46\n31141 Hildesheim" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@azp> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@azp> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://www.opengis.net/ont/geosparql#location> _:b2 .
+_:b2 <http://www.opengis.net/ont/geosparql#lat> "52.135070" .
+_:b2 <http://www.opengis.net/ont/geosparql#long> "9.967677" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://xmlns.com/foaf/0.1/name> "Center for World Music" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://purl.org/ontology/gbv/address> "Timotheus Platz / Schillstra\u00DFe\n(ehem. Timotheuskirche)\n31141 Hildesheim" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://xmlns.com/foaf/0.1/phone> "+49 5121 8 83-92350" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cwm> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@cwm> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@hand> <http://xmlns.com/foaf/0.1/name> "Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@hand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@hand> <http://xmlns.com/foaf/0.1/homepage> <https://www.uni-hildesheim.de/bibliothek/lernen-arbeiten/wo-finde-ich-was/handapparate/> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@hand> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@hand> <http://purl.org/dc/elements/1.1/description> "Best\u00E4nde, die im Katalog mit \"Handapparat\" gekennzeichnet sind, stehen nicht in der Universit\u00E4tsbibliothek und sind nicht regul\u00E4r benutzbar. Bei dringendem Bedarf k\u00F6nnen Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsm\u00F6glichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regul\u00E4ren Bestand der UB. Eine \u00DCbersicht, wo sich die einzelnen Handapparate befinden, finden Sie auf unserer Homepage unter Lernen & Arbeiten \u203A Wo finde ich was? \u203A Handapparate." .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@hand> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@ha> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ha> <http://purl.org/dc/elements/1.1/description> "Best\u00E4nde, die im Katalog mit \"Handapparat\" gekennzeichnet sind, stehen nicht in der Universit\u00E4tsbibliothek und sind nicht regul\u00E4r benutzbar. Bei dringendem Bedarf k\u00F6nnen Sie sich jedoch bei dem Eigner des Handapparates nach einer Benutzungsm\u00F6glichkeit erkundigen. Meist finden Sie aber auch ein weiteres Exemplar im regul\u00E4ren Bestand der UB. Eine \u00DCbersicht, wo sich die einzelnen Handapparate befinden, finden Sie auf unserer Homepage unter Lernen & Arbeiten \u203A Wo finde ich was? \u203A Handapparate." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ha> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ha> <http://xmlns.com/foaf/0.1/homepage> <https://www.uni-hildesheim.de/bibliothek/lernen-arbeiten/wo-finde-ich-was/handapparate/> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ha> <http://xmlns.com/foaf/0.1/name> "Handapparat" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@fh> <http://purl.org/dc/elements/1.1/description> "Bitte entnehmen Sie Titel selbst aus den Regalen." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@fh> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@fh> <http://xmlns.com/foaf/0.1/name> "Freihandbestand" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@fh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@fh> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lounge> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lounge> <http://purl.org/dc/elements/1.1/description> "Bitte entnehmen Sie Titel selbst aus den Regalen." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lounge> <http://xmlns.com/foaf/0.1/name> "Leselounge" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lounge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@lounge> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mag> <http://purl.org/dc/elements/1.1/description> "F\u00FCr Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte B\u00FCcher stehen i.d.R. am n\u00E4chsten Werktag (au\u00DFer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung betr\u00E4gt eine Woche." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mag> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@mag> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@alt> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@alt> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@alt> <http://purl.org/dc/elements/1.1/description> "F\u00FCr Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte B\u00FCcher stehen i.d.R. am n\u00E4chsten Werktag (au\u00DFer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung betr\u00E4gt eine Woche." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@alt> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@alt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@rara> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@rara> <http://purl.org/dc/elements/1.1/description> "F\u00FCr Titel aus dem Magazin nutzen Sie bitte den Bestellen-Link. Bestellte B\u00FCcher stehen i.d.R. am n\u00E4chsten Werktag (au\u00DFer Sa.) zur Abholung an der Leihstelle bereit. Die Frist zur Abholung betr\u00E4gt eine Woche." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@rara> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@rara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@rara> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> <http://xmlns.com/foaf/0.1/name> "Lesesaalnutzung" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> <http://purl.org/dc/elements/1.1/description> "Diese Titel m\u00FCssen aus dem Magazin bestellt werden und k\u00F6nnen dann nur vor Ort im Lesesal genutzt und nicht ausgeliehen werden. Bitte benutzen Sie den  Bestellen-Link. B\u00FCcher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten sp\u00E4ter an der Leihstelle bereitgestellt." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@lsntz> <http://purl.org/ontology/gbv/openinghours> "Das Magazin wird wie folgt bedient: Mo - Do bis 16:00 Uhr, Fr. bis 14:00 Uhr. Sp\u00E4ter eingehende Bestellungen erhalten Sie am n\u00E4chsten Werktag." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zsmag> <http://purl.org/dc/elements/1.1/description> "Bitte bestellen Sie gew\u00FCnschte B\u00E4nde mit einem Leihschein oder wenden Sie sich an die Auskunft." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zsmag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zsmag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zsmag> <http://xmlns.com/foaf/0.1/name> "Zeitschriftenmagazin" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@zsmag> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@mf> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mf> <http://purl.org/dc/elements/1.1/description> "Bitte wenden Sie sich an die Auskunft um Medien aus den Mikroformenschr\u00E4nken zu erhalten." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mf> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@mf> <http://xmlns.com/foaf/0.1/name> "Mikroformenschrank" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@medio> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@medio> <http://purl.org/dc/elements/1.1/description> "Die Mediothek finden Sie im Obergeschoss der UB. Gew\u00FCnschte Medien werden von der Auskunft in der Mediothek f\u00FCr Sie herausgesucht." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@medio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@medio> <http://xmlns.com/foaf/0.1/name> "Mediothek" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@medio> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prf> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prf> <http://purl.org/dc/elements/1.1/description> "Regale links neben der Auskunft. Bitte entnehmen Sie Titel dort selbst aus den Regalen." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prf> <http://xmlns.com/foaf/0.1/name> "Abschlussarbeiten" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@prf> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prr> <http://purl.org/dc/elements/1.1/description> "Regal neben dem Kopierraum. Die Titel im Pr\u00E4sentationsregal sind nicht ausleihbar." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prr> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prr> <http://xmlns.com/foaf/0.1/name> "Pr\u00E4sentationsregal" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@prr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@prr> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sem> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sem> <http://purl.org/dc/elements/1.1/description> "Regale hinter dem Kopierraum. Aufstellung nach der Nummer des Semesterapparats." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sem> <http://xmlns.com/foaf/0.1/name> "Semesterapparate" .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@sem> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@sta> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sta> <http://xmlns.com/foaf/0.1/name> "Einbandsammlung" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sta> <http://purl.org/dc/elements/1.1/description> "Bitte wenden Sie sich an die Auskunft." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@sta> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@ztg> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ztg> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ztg> <http://purl.org/dc/elements/1.1/description> "F\u00FCr \u00E4ltere Ausgaben wenden Sie sich bitte an die Zeitschriftenstelle." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ztg> <http://xmlns.com/foaf/0.1/name> "Leselounge" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@ztg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zss> <http://xmlns.com/foaf/0.1/name> "Zeitschriftenstelle" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zss> <http://purl.org/ontology/gbv/openinghours> "Die Zeitschriftenstelle ist i.d.R. Mo-Fr bis 10:00 - 16:00 Uhr ge\u00F6ffnet." .
+<http://uri.gbv.de/organization/isil/DE-Hil2@zss> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@zss> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@holt> <http://xmlns.com/foaf/0.1/name> "Arbeitsbibliothek Holthusen" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@holt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@holt> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@holt> <http://purl.org/dc/elements/1.1/description> "Ehemalige Arbeitsbibliothek des Schriftstellers Hans Egon Holthusen. Benutzung nur vor Ort m\u00F6glich - bitte wenden Sie sich an die Auskunft." .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@holt> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cdrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cdrom> <http://xmlns.com/foaf/0.1/name> "CD-ROM Einzelplatz" .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cdrom> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Hil2> .
+<http://uri.gbv.de/organization/isil/DE-Hil2@cdrom> <http://purl.org/dc/elements/1.1/description> "Der Arbeitsplatz befindet sich neben der Auskunft. F\u00FCr Unterst\u00FCtzung bei der Nutzung wenden Sie sich bitte an die Auskunft." .
+<http://uri.gbv.de/organization/isil/DE-Hil2> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Hil2@cdrom> .

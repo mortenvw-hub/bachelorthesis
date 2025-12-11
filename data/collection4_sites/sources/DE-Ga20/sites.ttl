@@ -1,0 +1,16 @@
+<http://uri.gbv.de/organization/isil/DE-Ga20> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Ga20@da> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@da> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Ga20> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@da> <http://xmlns.com/foaf/0.1/name> "Dauerausleihe Mitarbeiter" .
+<http://uri.gbv.de/organization/isil/DE-Ga20@da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Ga20> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Ga20@fh> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@fh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@fh> <http://xmlns.com/foaf/0.1/name> "Freihandbestand" .
+<http://uri.gbv.de/organization/isil/DE-Ga20@fh> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Ga20> .
+<http://uri.gbv.de/organization/isil/DE-Ga20> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Ga20@hb> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@hb> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Ga20> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@hb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@hb> <http://xmlns.com/foaf/0.1/name> "Handbestand" .
+<http://uri.gbv.de/organization/isil/DE-Ga20> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-Ga20@mag> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@mag> <http://xmlns.com/foaf/0.1/name> "Magazin" .
+<http://uri.gbv.de/organization/isil/DE-Ga20@mag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> .
+<http://uri.gbv.de/organization/isil/DE-Ga20@mag> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-Ga20> .

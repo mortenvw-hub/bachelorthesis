@@ -1,0 +1,2 @@
+<http://uri.gbv.de/organization/isil/DE-8> <http://www.w3.org/ns/org#hasSite> <http://uri.gbv.de/organization/isil/DE-8-601> .
+<http://uri.gbv.de/organization/isil/DE-8-601> <http://www.w3.org/ns/org#siteOf> <http://uri.gbv.de/organization/isil/DE-8> .
