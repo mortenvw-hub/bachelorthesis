@@ -1,18 +1,16 @@
 from rdflib import Graph
 import json
 
+with open("context.jsonld") as f:
+    context = json.load(f)
+
+del context["@context"]["url"]["@type"]
 
 with open("lobid.ndjson", "r") as f:    
-    g = Graph()
+    g = Graph()    
     for line in f:
-        try:
-            test = Graph()
-            test.parse(data=line , format="json-ld", context="context.jsonld")
-            test.serialize(format="nt")            
-            g.parse(data=line , format="json-ld", context="context.jsonld")
-        except:
-            temp = json.loads(line)
-            del temp["url"]
-            g.parse(data=temp , format="json-ld", context="context.jsonld")
-
+        temp = json.loads(line)
+        del temp["@context"]
+        g.parse(data=temp , format="json-ld", context=context)
+        
 g.serialize(destination="./../collection3.nt", format="nt", encoding="utf-8")

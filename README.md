@@ -4,7 +4,7 @@
 
 ## Background
 
-This repository was created as part of my Bachelorthesis at the Hochschule Hannover. It provides a knowledge graph for various data collections regarding library, archive and museum metadata. The knowledge graph is heavily influenced and modeled after the [NFDI4Objects Knowledge Graph](https://github.com/nfdi4objects/n4o-graph). More information to the used components can be found in the [NFDI4Objects Knowledge Graph](https://nfdi4objects.github.io/n4o-graph/).
+This repository was created as part of my Bachelorthesis at the Hochschule Hannover. It provides a knowledge graph for various data collections regarding library, archive and museum metadata. The knowledge graph is heavily influenced and modeled after the [NFDI4Objects Knowledge Graph](https://github.com/nfdi4objects/n4o-graph). More information to the used components can be found in the [NFDI4Objects Knowledge Graph manual](https://nfdi4objects.github.io/n4o-graph/).
 
 ## Components
 
