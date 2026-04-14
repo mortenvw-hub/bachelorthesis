@@ -5,6 +5,7 @@ with open("context.jsonld") as f:
     context = json.load(f)
 
 del context["@context"]["url"]["@type"]
+context["@context"]["Organisation"] = "https://schema.org/Organization"
 
 with open("lobid.ndjson", "r") as f:    
     g = Graph()    
