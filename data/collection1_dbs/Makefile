@@ -6,7 +6,6 @@ collection:
 	wget --quiet -N "https://uri.gbv.de/database/nl?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/oeb?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/olcssg?format=ttl" -O ->> dbs.ttl
-#	wget --quiet -N "https://uri.gbv.de/database/opac?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/owc?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/proj?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/rk?format=ttl" -O ->> dbs.ttl
