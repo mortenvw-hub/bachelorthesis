@@ -8,7 +8,7 @@
 #[] rdf:type fuseki: Server .
 
 <#service1> a fuseki:Service ;
-    fuseki:name "LODatVZG" ;                     # http://host:port/LODatVZG
+    fuseki:name "LODatVZG" ;                     # http://host:port/LODatVZG This has been modified!
     fuseki:endpoint [                       # SPARQL query
         fuseki:operation fuseki:query
     ] ;
@@ -26,7 +26,7 @@
 
 <#dataset> a tdb:DatasetTDB ;
 	tdb:unionDefaultGraph true ;
-    tdb:location  "/fuseki/databases/LODatVZG" ;
+    tdb:location  "/fuseki/databases/LODatVZG" ; # This has been modified
 
     # Query timeout on this dataset (10s, 10000 milliseconds)
     ja:context [ ja:cxtName "arq:queryTimeout" ;  ja:cxtValue "10000" ]  

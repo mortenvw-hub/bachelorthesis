@@ -1,4 +1,4 @@
-# GBV Datenbankverzeichnis (Collection 1)
+# GBV database directory (GBV Datenbankverzeichnis) {Collection 1}
 
 This collection contains information about catalogues and databases used in the Common Library Network (GBV). The data is sourced from <https://uri.gbv.de/database/> and additonal information can be found there. The dataset is divided in different database groups:
 
@@ -16,4 +16,4 @@ This collection contains information about catalogues and databases used in the 
 
 ## Generate and Update
 
-To generate or update the collection run `make` from this directory. This will download the different database groups directly from <https://uri.gbv.de/database/> and save them as `.ttl`- or `.rdf`-files. Afterwards the script `convert.py` will load all the data in a temporary graph and convert them to a single `collection1.nt` file. This file is saved in the parent folder `data`. 
+To generate or update the collection run `make` from this directory. This will download the different database groups directly from <https://uri.gbv.de/database/> and save them as `.ttl`- and `.rdf`-files. Afterwards the script `convert.py` will load all the data in a temporary graph and convert them to a single `collection1.nt` file. This file is saved in the parent folder `data`. 

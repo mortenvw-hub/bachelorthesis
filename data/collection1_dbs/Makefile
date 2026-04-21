@@ -1,4 +1,4 @@
-collection: 
+collection:
 	> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/?format=ttl" -O ->> dbs.ttl
 	wget --quiet -N "https://uri.gbv.de/database/fachopac?format=ttl" -O ->> dbs.ttl

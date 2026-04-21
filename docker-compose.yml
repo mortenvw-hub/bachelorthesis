@@ -13,6 +13,7 @@ services:
       - TITLE=LOD@VZG Graph Importer
       #- BASE=https://uri.gbv.de/
       - SPARQL=http://fuseki:3030/LODatVZG
+      # The database is set to a local testing environment
       - FRONTEND=http://localhost:8000/
       - BASE=http://localhost:8000/
 
@@ -45,6 +46,7 @@ services:
       - LODatVZG
     environment:
       - SPARQL=http://fuseki:3030/LODatVZG
+      # The database is set to a local testing environment
       - BASE=http://localhost:8000/
 
 networks:

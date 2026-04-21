@@ -1,0 +1,22 @@
+# 1. First basic example showing how to get information from all collections for a single ISIL
+
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX w3: <http://www.w3.org/ns/org#>
+PREFIX schema: <https://schema.org/>
+
+SELECT ?name (GROUP_CONCAT(?id; SEPARATOR = ", ") AS ?ids) ?sru ?site
+WHERE{
+  # Change this value to set the searched organization via it's ISIL
+  BIND("DE-7" AS ?isil)
+  BIND( URI(CONCAT("http://lobid.org/organisations/",?isil,"#!")) AS ?lobid)
+  BIND( URI(CONCAT("http://uri.gbv.de/organization/isil/",?isil)) AS ?gbv)
+  # Show the name from the lobid collection3
+  ?lobid schema:name ?name .
+  # Show ELN and ILN form the k10plus collection2
+  ?gbv dc:identifier ?id .
+  # Show the SRU base from the database collection1
+  ?gbv <http://purl.org/ontology/gbv/opac> [ <http://purl.org/ontology/gbv/srubase> ?sru ].
+  # Show the sites from the sites collection4
+  ?gbv w3:hasSite ?site .
+}
+GROUP BY ?name ?sru ?site

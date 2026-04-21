@@ -483,7 +483,7 @@ ILN	ELN	Name der Einrichtung	ISIL
 0291	3291	ESTEBURG Jork	DE-Jor1
 0293	3293	Bibliothek im Kurt-Schwitters-Forum, Hannover	DE-960-3
 0294	3294	Thüringer Behördenbibliotheken, Weimar	
-0294	3294/0001	Landesverwaltungsamt, Halle	Ha162
+0294	3294/0001	Landesverwaltungsamt, Halle	DE-Ha162
 0294	3294/0002	Thüringer Verfassungsgerichtshof, Weimar	
 0294	3294/0004	Thüringer Landesamt für Denkmalpflege und Archäologie, Weimar 	DE-Wim7
 0294	3294/0005	Thüringisches Hauptstaatsarchiv Weimar	DE-2208
@@ -519,7 +519,7 @@ ILN	ELN	Name der Einrichtung	ISIL
 0364	4364	Dokumentationszentrum für Europäische Gewerkschaftspublikationen (DEG), Bremen	--
 0365	4365	Staatsarchiv Bremen	DE-Bre1
 0370	4370	HCU Hamburg	DE-1373
-0371	4371	Museen in Schleswig-Holstein	DE 4371
+0371	4371	Museen in Schleswig-Holstein	DE-4371
 0372	1073/0001	Führungsakademie der Bundeswehr, Hamburg	--
 0372	1073/0006	Unteroffzschule der Luftwaffe, Appen	DE-Apn1
 0372	1073/0007	Marineamt Rostock	DE-R134
@@ -750,7 +750,7 @@ ILN	ELN	Name der Einrichtung	ISIL
 1021	4021	Institut für Hochschulforschung (HoF) an der Martin-Luther-Universität	DE-B2044
 1022	4022	Kreisarchiv Verden	DE-2925
 1023	4023	Rosa-Luxemburg-Stiftung	DE-B1599
-1025	4025	Francisceumsbibliothek, Zerbst	De-Ze1
+1025	4025	Francisceumsbibliothek, Zerbst	DE-Ze1
 1026	4126	Bibliothek der Kapuziner, Münster	DE-Mue78
 1027	4027	Oldenburgische Landschaft	--
 1028	4028	Bibliothek des Evangelischen Ministeriums im Augustinerkloster, Erfurt	DE-Ef27
@@ -767,7 +767,7 @@ ILN	ELN	Name der Einrichtung	ISIL
 1120	4120	Historische Bibliothek Christianeum Hamburg	DE-H188
 1121	4121	Landesarchiv Sachsen-Anhalt, Abteilung Dessau-Roßlau	DE-De19
 1121	4121	Landesarchiv Sachsen-Anhalt, Abteilung Magdeburg	DE-Ma25
-1121	4121	Landesarchiv Sachsen-Anhalt, Abteilung Wernigerode	De-We17
+1121	4121	Landesarchiv Sachsen-Anhalt, Abteilung Wernigerode	DE-We17
 2001	TUUB	Universitätsbibliothek Tübingen	DE-21
 2002	TUUBBA	Universität Tübingen, Fakultät für Biologie, Bibliothek	DE-21-112
 2002	TUUBEC	Universität Tübingen, Evangelisch-theologische Fakultät	DE-21-31

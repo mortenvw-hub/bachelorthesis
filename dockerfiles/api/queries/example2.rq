@@ -1,0 +1,14 @@
+# 2. Show the ten organisations with the largest OPAC and their location
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX schema: <https://schema.org/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+
+SELECT *
+WHERE{
+  ?uri skos:exactMatch [ <http://purl.org/ontology/gbv/opac> [ dc:extent ?extent ] ];
+                                   schema:name ?name ;
+                                   schema:location [ schema:geo [ schema:latitude ?lat;
+                                                                  schema:longitude ?long ] ] .
+}
+ORDER BY DESC(?extent)
+LIMIT 10

@@ -1,7 +1,0 @@
-# First basic example
-SELECT *
-WHERE{
-  VALUES(?s) {(<http://uri.gbv.de/organization/isil/DE-7>) (<http://lobid.org/organisations/DE-7#!>)}
-  #VALUES(?s) {(<http://uri.gbv.de/database/opac-de-7>)}
-  ?s ?p ?o .
-}

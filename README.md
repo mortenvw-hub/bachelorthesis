@@ -30,9 +30,11 @@ docker compose up --force-recreate --remove-orphans -V
 
 ## Usage
 
+The knowledge graph is currently set to a testing environment. This includes the frontend for the importer and the api as well as the base uri for the collections. This way all the api related webpages can be accessed and tested. To change this the `BASE` and `FRONTEND` variables in the dockercompose can be adjusted.
+
 The importer can be accessed at <http://localhost:5020> and the SPARQL web interface at <http://localhost:8000>.
 
-The `data/` subdirectory contains scripts and sources to genrate, update and import collections into the graph. The included `Readme.md` contains more informations and instructions on how to use them. 
+The `data/` subdirectory contains scripts and sources to genrate, update and import collections and a mapping into the graph. The included `Readme.md` contains more informations and instructions on how to use them. 
 
 ## License
 
