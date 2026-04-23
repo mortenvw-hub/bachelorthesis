@@ -1,4 +1,4 @@
-# 2. Show the ten organisations with the largest OPAC and their location
+# 2. Show the ten organisations with the largest database and their location
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX schema: <https://schema.org/>
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
