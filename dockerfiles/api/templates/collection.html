@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
  
 {% block content %}
+<!--Add textbox to create left and right border-->
 <div class="textbox">
   {% if graph == None %}
   <p>The collection <b>{{uri}}</b> has not been found in the triple store!</p>
@@ -20,6 +21,7 @@
   {% if homepage %}
   <p>Homepage/URL: <a href="{{homepage}}">{{homepage}}</a></p>
   {% endif %}
+  <!--Modified URI base-->
   <p>Quell-Repository: <a data-sparql-value="SELECT ?r FROM <http://localhost:8000/collection/> { ?r <http://www.w3.org/ns/dcat#dataset> <{{uri}}> }">?</a></p>
   {% set license = graph.objects(URIRef(uri), URIRef("http://purl.org/dc/terms/license")).__next__() %}
   <p>Lizenz der Daten: <a href="{{license}}">{{license}}</a></p>

@@ -30,7 +30,7 @@ docker compose up --force-recreate --remove-orphans -V
 
 ## Usage
 
-The knowledge graph is currently set to a testing environment. This includes the frontend for the importer and the api as well as the base uri for the collections. This way all the api related webpages can be accessed and tested. To change this the `BASE` and `FRONTEND` variables in the dockercompose can be adjusted.
+The knowledge graph is currently set to a testing environment. This includes the frontend for the importer and the api as well as the base uri for the collections. This way all the api related webpages can be accessed and tested. To change this the `BASE` and `FRONTEND` variables in the dockercompose can be adjusted. Furthermore the URIs, that are set in the individual html code of the webpages in the `dockerfiles/api/templates/` folder, have to be adjusted.
 
 The importer can be accessed at <http://localhost:5020> and the SPARQL web interface at <http://localhost:8000>.
 

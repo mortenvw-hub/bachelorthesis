@@ -3,21 +3,22 @@
 {% block content %}
 
 <script src="{{url_for('static',filename='yasr.min.js')}}"></script>
-
+<!--Add textbox to create left and right border-->
 <div class="textbox">
+  <!--Modified describtion and URI base-->
   <p>
     A collection is an individual set of metadata, regarding libraries, imported into the knowledge graph.
     Each collection is identified by an URI starting with
-    <code>http://localhost/collection/</code>.
+    <code>http://localhost:8000/collection/</code>.
   </p>
   <p>
     Information about collections is stored in the
     RDF graph <a data-sparql="SELECT * FROM &lt;http://localhost:8000/collection/&gt; {
   ?subject ?predicate ?object
-  }">http://localhost/collection/</a>.
+  }">http://localhost:8000/collection/</a>.
   </p>
 
-
+  <!--Modified URI base-->
   <div data-sparql-table="
   PREFIX urigbv: &lt;http://localhost:8000/collection/&gt;
   SELECT ?collection ?name ?repository ?license FROM urigbv: WHERE {  

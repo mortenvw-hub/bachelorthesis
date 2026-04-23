@@ -130,7 +130,7 @@ def collection(id, path):
                 return send_from_directory(stage_path, path)
         # TODO: more beautiful message
         return "Not found!"
-    # This part has been changed to take the BASE provided in the docker-compose file instead of https://graph.nfdi4objects.net/ 
+    # This part has been changed to take the URI base provided in the docker-compose file instead of https://graph.nfdi4objects.net/ 
     uri = os.environ['BASE'] + "collection/" + str(id)
     graph = app.config["sparql-proxy"].request(
         "DESCRIBE <" + uri + ">",

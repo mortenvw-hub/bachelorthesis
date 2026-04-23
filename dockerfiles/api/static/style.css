@@ -22,6 +22,7 @@ body {
 }
 nav.navbar {
     padding: 0.5em 1em;
+	/* The color scheme has been modified*/
 	background-color: #577fbb;
 	color: #fff;
 	display: flex;
@@ -47,8 +48,10 @@ nav > div {
 	align-items: center;
 	text-align:start;
 }
+/* .navbar-logo and a > img have been removed */
 .navbar-title {
     font-size: 1.5rem;
+	/* The color scheme has been modified */
 	color: #fff;
 	overflow: hidden;
 	text-overflow: ellipsis;
@@ -80,6 +83,7 @@ nav > div {
 .nav-list > ul > li > a {
 	padding-left: 0.6rem;
 	padding-right: 0.6rem;
+	/* The color scheme has been modified */
 	color: #fff;
 	display: block;
 	padding-top: 0.5rem;
@@ -91,6 +95,7 @@ nav > div {
 }
 main {
 	padding:  0 1em 0 1em;
+	/* Add margin */
 	margin-top: 0.5rem;
 	}
 
@@ -98,12 +103,12 @@ a {
 	text-decoration: none;
 	text-underline-offset: 3px;
 }
-
+/* Add .nav-hover:hover */
 a:hover, .nav-hover:hover { 
 	text-decoration: underline;
 	color: var(--font-color); 
 }
-
+/* Add textbox */
 .textbox {
 	margin-left: 10%;
 	margin-right: 10%;
@@ -111,6 +116,7 @@ a:hover, .nav-hover:hover {
 
 h1, h2, h3, h4 {
 	color: var(--font-color);
+	/* Add margins */
 	margin-top: 20px;
 	margin-bottom: 10px;
 }
@@ -127,10 +133,12 @@ p {
 }
 
 footer {
+  /* Modify margins and padding */
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
   padding-bottom: 1em;
+  /* The color scheme has been modified */
   border-top: 12px solid #577fbb;
   color: var(--font-color);
 }

@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+ 
+{% block content %}
+<!--This file has been heavily change from the original one. It was created using collections.html as foundation-->
+
+<script src="{{url_for('static',filename='yasr.min.js')}}"></script>
+<!--Add textbox to create left and right border-->
+<div class="textbox">
+  <!--Modified describtion and URI base-->
+  <p>
+    A mapping describes the relation between two different sets of URIs and is used in this knowledge graph to make searching the contained data more comfortable. Each mappings is identified by an URI starting with
+    <code>http://localhost:8000/mappings/</code>.
+  </p>
+  <p>
+    Information about the mapping is stored in the
+    RDF graph <a data-sparql="SELECT * FROM &lt;http://localhost:8000/mappings/&gt; {
+  ?subject ?predicate ?object
+  }">http://localhost:8000/mappings/</a>.
+  </p>
+
+  <!--Modified URI base-->
+  <div data-sparql-table="
+  PREFIX urigbv: &lt;http://localhost:8000/mappings/&gt;
+  SELECT ?mapping ?name FROM urigbv: WHERE {  
+    ?mapping dct:isPartOf urigbv: .
+    OPTIONAL { ?mapping schema:name ?name }
+    }"
+  ></div>
+</div>
+{% endblock %}

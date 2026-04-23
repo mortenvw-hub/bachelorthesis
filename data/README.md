@@ -33,7 +33,7 @@ Analogously the mapping is provided in the subfolder `mapping1`. The subdirector
 
 - a `Makefile`, to generate and update the mapping,
 - a `README.md`, that provides information about the mapping and gives additional instructions,
-- an `mapping1-metadata.json`, containing information about the collection,
+- an `mapping1-metadata.json`, containing information about the mapping,
 - a `create-mapping.py` script, to create the mapping.
 
 The mapping can only be created if the source for `collection3_lobid` is available in the matching collection directory.
@@ -45,7 +45,7 @@ The collections and the mapping can be generated and updated by running:
 
 in the corresponding subdirectory. The resulting `.nt` files will be saved in this directory and follow the naming convention `collection$ID.nt` and `mapping1.nt`.
 
-The script `import.sh` can be used to upload all collection and the mapping to the knowledge graph at once.
+The script `import.sh` can be used to upload all collections and the mapping to the knowledge graph at once.
 
 ## References
 

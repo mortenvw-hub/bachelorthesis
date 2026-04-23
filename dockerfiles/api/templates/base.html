@@ -6,6 +6,7 @@
     <link href="{{url_for('static',filename='codemirror/codemirror.css')}}" rel="stylesheet">
     <link href="{{url_for('static',filename='yasgui.min.css')}}" rel="stylesheet">
     <link href="{{url_for('static',filename='style.css')}}" rel="stylesheet">
+    <!--Use new favicon-->
     <link rel="icon" href="{{url_for('static',filename='favicon.ico')}}" sizes="32x32" />
     <link rel="icon" href="{{url_for('static',filename='favicon.ico')}}" sizes="192x192" />
     <link rel="apple-touch-icon" href="{{url_for('static',filename='favicon.ico')}}" />
@@ -14,7 +15,9 @@
     <script src="{{url_for('static',filename='codemirror/runmode.js')}}"></script>
     <script src="{{url_for('static',filename='codemirror/javascript.js')}}"></script>
     <script src="{{url_for('static',filename='common.js')}}"></script>
+    <!--Use new favicon-->
     <meta name="msapplication-TileImage" content="{{url_for('static',filename='favicon.ico')}}" />
+    <!--Add new title-->
     <title>LOD@VZG Graph: {{title}}</title>
   </head>
   <body>  
@@ -22,9 +25,11 @@
     	<nav class="navbar">
     		<div>
     			<div class="navbar-brand">
+              <!--Change the brand logo-->
 	        		<a href="{{url_for('index')}}" class="navbar-title"><span><strong>uri.gbv.de</strong></span></a>
     			</div>
     			<div class= "nav-list">
+            <!--All menus except for the SPARQL form, the collections and mappings have been removed-->
     				<ul>
         			<li>
           			{% if request.path.startswith("/sparql") %}
@@ -40,6 +45,14 @@
             		<a href="{{url_for('collection')}}" class="nav-hover"><span>Collections</span></a>
           			{% endif %}
         			</li>
+              <li>
+          			{% if request.path.startswith("/mapping") %}
+            		<a href="{{url_for('mappings')}}" class="nav-hover"><span><strong>Mappings</strong></span></a>
+          			{% else %}
+            		<a href="{{url_for('mappings')}}" class="nav-hover"><span>Mappings</span></a>
+          			{% endif %}
+        			</li>
+
       			</ul>
     			</div>
     		</div>
@@ -48,11 +61,12 @@
     <main>
       {% block content %} {% endblock %}
     </main>
+    <!--The foot was update with the new links-->
     <footer>
       <div style="float:right;">
-        <a href="https://github.com/mortenvw-hub/bachelor-kg">sources</a>
+        <a href="https://github.com/mortenvw-hub/bachelorthesis">sources</a>
         |
-        <a href="https://github.com/mortenvw-hub/bachelor-kg/issues">issues</a>
+        <a href="https://github.com/mortenvw-hub/bachelorthesis/issues">issues</a>
       </div>
       <a href="https://www.gbv.de/impressum">Verbundzentrale des GBV (VZG)</a>
     </footer>

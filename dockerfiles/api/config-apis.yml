@@ -4,7 +4,7 @@ debug: false
 # SPARQL endpoint and examples (required)
 sparql:
   # TODO: config via env $SPARQL
-  endpoint: http://fuseki:3030/LODatVZG
+  endpoint: http://fuseki:3030/LODatVZG # This has been updated to the new endpoint
   examples:
     # examples given in files
     - queries/*.rq
