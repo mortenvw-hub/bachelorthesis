@@ -6,4 +6,4 @@ This collection contains informations about libraries, archives and museums in G
 
 To generate or update the collection run `make` from this directory. This will download the data from the [lobid-organisations API](https://lobid.org/organisations/api/de). Please refer to their [API usage-policy](https://lobid.org/usage-policy/) before attempting this. The data is provided in the `jsonld`-format and a corresponding `context.jsonld` is downloaded afterwards. 
 
-Next the `.jsonld` file is converted into a `collection3.nt` file using the script `convert.py`. This conversion also modifies the original `context.jsonld` to repair broken data. The resulting file is saved in the parent folder `data`.
+Next the `.jsonld` file is converted into a `collection3.nt` file using the script `convert.py`. This conversion also modifies the original `context.jsonld` to repair broken data. The resulting file is saved in the subfolder `prepared_data` of the parent folder `data`.

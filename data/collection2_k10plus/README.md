@@ -9,4 +9,4 @@ This collection contains information about institutions partaking at the K10plus
 
 ## Generate and Update
 
-To generate or update the collection modify the `k10plus.tsv` file and run `make` from this directory. This will filter and print invalid ISIL and convert the tabular data to a `collection2.nt` file using the script `convert.py`. The resulting file is saved in the parent folder `data`. 
+To generate or update the collection modify the `k10plus.tsv` file and run `make` from this directory. This will filter and print invalid ISIL and convert the tabular data to a `collection2.nt` file using the script `convert.py`. This file is saved in the subfolder `prepared_data` of the parent folder `data`.

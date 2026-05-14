@@ -6,7 +6,7 @@ node_counter = 0
 
 print("Writing to collection file")
 
-with open("./../collection4.nt", "w") as output, os.scandir('./sources/') as sources_dir:
+with open("./../prepared_data/collection4.nt", "w") as output, os.scandir('./sources/') as sources_dir:
     # Go through all contents of the source directory and take data from the contained directories
     for dir in sources_dir:
         if dir.is_dir():

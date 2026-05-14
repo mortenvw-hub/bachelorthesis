@@ -12,11 +12,12 @@ for dir in collection*/; do
 done
 
 # Go through all collection data and upload the to the importer
-for file in collection*.nt; do
+for file in prepared_data/collection*.nt; do
+    source=${file##*/}
     collection=${file%.*}
     collection=${collection##*n}
     
-    curl --silent --fail -X POST "http://localhost:5020/collection/${collection}/receive?from=${file}"
+    curl --silent --fail -X POST "http://localhost:5020/collection/${collection}/receive?from=${source}"
     curl --silent --fail -X POST "http://localhost:5020/collection/${collection}/load" 
 done
 

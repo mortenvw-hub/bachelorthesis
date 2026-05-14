@@ -15,7 +15,7 @@ The provided mapping is called:
 
 In order to generate, update and import the collections and the mapping the command line tools `bash`, `make` and `curl` are required. Furthermore `python` and the library [RDFLib](https://rdflib.readthedocs.io/en/stable/) are need. The required python library and a virtual environment can be created by running   
 
-    make python
+    make .venv
 
 in this directory.
 
@@ -43,7 +43,7 @@ The collections and the mapping can be generated and updated by running:
 
     make
 
-in the corresponding subdirectory. The resulting `.nt` files will be saved in this directory and follow the naming convention `collection$ID.nt` and `mapping1.nt`.
+in the corresponding subdirectory. The resulting `.nt` files will be saved in the subdirectory `prepared_data` and follow the naming convention `collection$ID.nt` and `mapping1.nt`.
 
 The script `import.sh` can be used to upload all collections and the mapping to the knowledge graph at once.
 

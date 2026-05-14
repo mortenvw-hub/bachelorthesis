@@ -2,8 +2,8 @@ from rdflib import Graph, Literal, URIRef, BNode
 import re
 
 g = Graph()
-id_pred = URIRef("http://purl.org/dc/elements/1.1/identifier")
-name_pred = URIRef("http://xmlns.com/foaf/0.1/name")
+id_pred = URIRef("https://schema.org/identifier")
+name_pred = URIRef("https://schema.org//name")
 
 print("Reading source data")
 with open("k10plus.tsv") as f:
@@ -35,4 +35,4 @@ with open("k10plus.tsv") as f:
             print("Invalid row. Skipping")
             continue
 print("Writing to collection file")
-g.serialize(destination="./../collection2.nt", format="nt", encoding="utf-8")
+g.serialize(destination="./../prepared_data/collection2.nt", format="nt", encoding="utf-8")

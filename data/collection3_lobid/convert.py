@@ -17,4 +17,4 @@ with open("lobid.ndjson", "r") as f:
         g.parse(data=temp , format="json-ld", context=context)
 
 print("Writing to collection file")        
-g.serialize(destination="./../collection3.nt", format="nt", encoding="utf-8")
+g.serialize(destination="./../prepared_data/collection3.nt", format="nt", encoding="utf-8")

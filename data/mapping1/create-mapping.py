@@ -20,7 +20,7 @@ try:
                 continue
 
     print("Writing to file")
-    g.serialize(destination="./../mapping1.nt", format="nt", encoding="utf-8")
+    g.serialize(destination="./../prepared_data/mapping1.nt", format="nt", encoding="utf-8")
 
 except:
     print("In order to creat this mapping the source for collection3_lobid has to be downloaded first.")

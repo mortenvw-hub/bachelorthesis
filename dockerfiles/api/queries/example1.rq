@@ -1,6 +1,5 @@
 # 2. Basic example showing how to get information from all collections for a single ISIL
 
-PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX w3: <http://www.w3.org/ns/org#>
 PREFIX schema: <https://schema.org/>
 
@@ -13,7 +12,7 @@ WHERE{
   # Show the name from the lobid collection3
   ?lobid schema:name ?name .
   # Show ELN and ILN form the k10plus collection2
-  ?gbv dc:identifier ?id .
+  ?gbv schema:identifier ?id .
   # Show the SRU base from the database collection1
   ?gbv <http://purl.org/ontology/gbv/opac> [ <http://purl.org/ontology/gbv/srubase> ?sru ].
   # Show the sites from the sites collection4

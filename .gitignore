@@ -1,8 +1,8 @@
-stage/
+stage/*
 data/venv/
 data/collection1_dbs/dbs.rdf
 data/collection1_dbs/dbs.ttl
-data/*.nt
+data/prepared_data/*
 data/collection3_lobid/context.jsonld
 data/collection3_lobid/lobid.ndjson
 data/collection3_lobid/isil_lobid.gz

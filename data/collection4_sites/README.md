@@ -4,7 +4,7 @@ This collection contains a registry of library locations of a number of librarie
 
 ## Generate and Update
 
-To generate or update the collection modify the files in the sources subfolder and run `make` from this directory. This will convert all the existing `.ttl` files into a single `collection4.nt` file using the script `convert.py` while ensuring that the individual blank nodes provided in each file are uniquely identified and do not overlap. The resulting file is saved in the parent folder `data`. 
+To generate or update the collection modify the files in the sources subfolder and run `make` from this directory. This will convert all the existing `.ttl` files into a single `collection4.nt` file using the script `convert.py` while ensuring that the individual blank nodes provided in each file are uniquely identified and do not overlap. The resulting file is saved in the subfolder `prepared_data` of the parent folder `data`. 
 
 ## License
 

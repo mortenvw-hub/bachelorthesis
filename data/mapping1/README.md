@@ -4,4 +4,4 @@ This mapping describes the relation between lobid URIs for organisations of the 
 
 ## Generate and Update
 
-In order to create this mapping the source file for `collection3_lobid`, which is called `lobid.ndjson` and can be found in the collection folder after generating the collection, has to be loaded first. Afterwards running `make` in this directory will generate the mapping using the `create-mapping.py` programm and save it as `mapping1.nt` in the parent folder `data`. 
+In order to create this mapping the source file for `collection3_lobid`, which is called `lobid.ndjson` and can be found in the collection folder after generating the collection, has to be loaded first. Afterwards running `make` in this directory will generate the mapping using the `create-mapping.py` programm and save it as `mapping1.nt` in the subfolder `prepared_data` of the parent folder `data`. 

@@ -14,7 +14,11 @@ This repository was created as part of my Bachelorthesis at the Hochschule Hanno
 
 ## Install
 
-Start by cloning the repository. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
+Start by cloning the repository. Run
+
+    make init
+
+to create the `stage` and the `data/prepared_data` subdirectories. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
 
 ~~~sh
 docker compose pull
@@ -40,6 +44,6 @@ The `data/` subdirectory contains scripts and sources to genrate, update and imp
 
 This project and repository are modeled after the [NFDI4Objects Knowledge Graph](https://github.com/nfdi4objects/n4o-graph).
 
-The files in the subdirectory `dockerfiles/api/`, excluding the `dockerfiles/api/queries/` folder, were copied from [n4o-graph-apis](https://github.com/nfdi4objects/n4o-graph-apis) and modified.
+The files in the subdirectory `dockerfiles/api/`, excluding the `dockerfiles/api/queries/` folder, were copied from [n4o-graph-apis](https://github.com/nfdi4objects/n4o-graph-apis) and modified. This is provided under MIT License.
 
-The file `dockerfiles/api/config.ttl` was copied from [n4o-fuseki](https://github.com/nfdi4objects/n4o-fuseki) and modified.
+The file `dockerfiles/api/config.ttl` was copied from [n4o-fuseki](https://github.com/nfdi4objects/n4o-fuseki) and modified. This is provided under [Apache License](http://www.apache.org/licenses/) 2.0.

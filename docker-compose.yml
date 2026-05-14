@@ -6,7 +6,7 @@ services:
       - ${IMPORT:-5020}:5020
     volumes:
       - ${STAGE:-./stage}:/app/stage
-      - ${DATA:-./data}:/app/data:ro
+      - ${DATA:-./data/prepared_data}:/app/data:ro
     networks:
       - LODatVZG
     environment:
