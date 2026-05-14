@@ -1,4 +1,4 @@
-# 3. A federated query example to connect the database to wikidata
+# 4. A federated query example to connect the database to wikidata
 
 PREFIX schema: <https://schema.org/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>

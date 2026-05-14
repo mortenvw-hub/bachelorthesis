@@ -1,4 +1,4 @@
-# 1. First basic example showing how to get information from all collections for a single ISIL
+# 2. Basic example showing how to get information from all collections for a single ISIL
 
 PREFIX dc: <http://purl.org/dc/elements/1.1/>
 PREFIX w3: <http://www.w3.org/ns/org#>

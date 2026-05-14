@@ -1,0 +1,10 @@
+# 1. List all named graphs and the number of contained triples
+
+SELECT ?graph (COUNT(*) AS ?count)
+WHERE { 
+  GRAPH ?graph {
+	?sbj ?pred ?obj.
+  }
+}
+GROUP BY ?graph
+ORDER BY ?graph
