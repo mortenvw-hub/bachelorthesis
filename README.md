@@ -18,13 +18,13 @@ Start by cloning the repository. Run
 
     make init
 
-to create the `stage` and the `data/prepared_data` subdirectories. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
+in the root directory of this repository to create the `stage` and the `data/prepared_data` subdirectories. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
 
 ~~~sh
 docker compose pull
 ~~~
 
-in the root directory of this repository.
+in the same directory.
 
 Afterwards a new set of containers for the LOD@VZG Knowledge Graph can be started with
 
