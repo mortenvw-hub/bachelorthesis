@@ -36,7 +36,7 @@ Analogously the mapping is provided in the subfolder `mapping1`. The subdirector
 
 - a `Makefile`, to generate and update the mapping,
 - a `README.md`, that provides information about the mapping and gives additional instructions,
-- an `mapping1-metadata.json`, containing information about the mapping,
+- a `mapping1-metadata.json`, containing information about the mapping,
 - a `create-mapping.py` script, to create the mapping.
 
 The mapping can only be created if the source for `collection3_lobid` is available in the matching collection directory.
