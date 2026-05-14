@@ -3,7 +3,7 @@ import re
 
 g = Graph()
 id_pred = URIRef("https://schema.org/identifier")
-name_pred = URIRef("https://schema.org//name")
+name_pred = URIRef("https://schema.org/name")
 
 print("Reading source data")
 with open("k10plus.tsv") as f:
