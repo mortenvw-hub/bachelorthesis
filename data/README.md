@@ -15,19 +15,22 @@ The provided mapping is called:
 
 In order to generate, update and import the collections and the mapping the command line tools `bash`, `make` and `curl` are required. Furthermore `python` and the library [RDFLib](https://rdflib.readthedocs.io/en/stable/) are need. The required python library and a virtual environment can be created by running   
 
-    make .venv
+    make init
 
-in this directory.
+in this directory. This will also create the `prepared_data` subdirectory if it does not already exist.
 
 ## Usage
 
 Each individual collection is provided in a subdirectory with either some source to generate it or an external reference to download it from. The naming convention of the subdirectories follows `collection$ID_$ACRONYM`. Where `$ID` is the ordinal number of the collection and `$ACRONYM` is an alphanumeric sequence identifying the collection. Each subdirectory contains:
 
-- a `Makefile`, to generate and update the collection, (mandatory),
-- a `README.md`, that provides information about the collection and gives additional instructions (mandatory),
-- an `$ACRONYM-metadata.json`, containing information about the collection (mandatory),
-- some form of source files (optional),
-- a `convert.py` script, to convert a source into a usable format (optional).
+- a `Makefile`, to generate and update the collection,
+- a `README.md`, that provides information about the collection and gives additional instructions,
+- an `$ACRONYM-metadata.json`, containing information about the collection,
+- a `convert.py` script, to convert a source into a usable format
+
+and might contain
+
+- some form of source files.
 
 Analogously the mapping is provided in the subfolder `mapping1`. The subdirectory contains:
 

@@ -14,7 +14,5 @@ collection:
 
 	wget --quiet -N "https://uri.gbv.de/database/opac?format=rdfxml" -O -> dbs.rdf
 	
-	mkdir -p ../prepared_data
-
 	../venv/bin/python3 convert.py
 	
