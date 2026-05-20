@@ -11,7 +11,6 @@ services:
       - LODatVZG
     environment:
       - TITLE=LOD@VZG Graph Importer
-      #- BASE=https://uri.gbv.de/
       - SPARQL=http://fuseki:3030/LODatVZG
       # The database is set to a local testing environment
       - FRONTEND=http://localhost:8000/
@@ -19,10 +18,9 @@ services:
 
   fuseki:
     image: ghcr.io/nfdi4objects/n4o-fuseki:main
-    #ports:
-    #  - "3031:3030"
     volumes:
       - ./dockerfiles/fuseki/config.ttl:/fuseki/config.ttl
+    # The following lines can be uncommented to enable persistent saving of the triple store
     #  - ./fuseki/logs:/fuseki/logs
     #  - ./fuseki/databases:/fuseki/databases
     #  - ./fuseki/log4j2.properties:/fuseki/log4j2.properties:ro
@@ -35,7 +33,7 @@ services:
     ports:
       - ${PORT:-8000}:8000
     volumes:
-      - ./dockerfiles/api/config-apis.yml:/app/config.yaml:ro # ./config-apis.yml must exist!
+      - ./dockerfiles/api/config-apis.yml:/app/config.yaml:ro 
       - ${STAGE:-./stage}:/app/stage:ro
       - ${QUERIES:-./dockerfiles/api/queries}:/app/queries
       - ./dockerfiles/api/templates:/app/templates
