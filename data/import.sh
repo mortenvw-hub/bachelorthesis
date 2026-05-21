@@ -24,8 +24,23 @@ for file in prepared_data/collection*.nt; do
     curl --silent --fail -X POST "${importer}collection/${collection}/load" 
 done
 
-# Upload the mapping data and metadata to the importer
-curl --silent --fail -X POST -H "Content-Type: application/json" -d @./mapping1/mapping1-metadata.json "${importer}mappings/"
-curl --silent --fail -X POST "${importer}mappings/1/receive?from=mapping1.nt"
-curl --silent --fail -X POST "${importer}mappings/1/load" 
+# Go through all mapping directorys and upload metadata to the importer
+for dir in mapping*/; do
+    dir=${dir%/}
+    mapping=${dir%_*}
+    mapping=${mapping##*g}
+    
+    [ -e "$dir/${dir##*_}-metadata.json" ] || continue
 
+    curl --silent --fail -X POST -H "Content-Type: application/json" -d @./$dir/${dir}-metadata.json "${importer}mappings/"
+done
+
+# Go through all mapping data and upload the to the importer
+for file in prepared_data/mapping*.nt; do
+    source=${file##*/}
+    mapping=${file%.*}
+    mapping=${mapping##*g}
+    
+    curl --silent --fail -X POST "${importer}mappings/${mapping}/receive?from=${source}"
+    curl --silent --fail -X POST "${importer}mappings/${mapping}/load" 
+done

@@ -27,7 +27,7 @@ Start by cloning the repository. Run
 
     make init
 
-in the root directory of this repository to create the `stage` and the `data/prepared_data` subdirectories. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
+in the root directory of this repository to create the `stage` and the `data/prepared_data` subdirectories. This requires the command line tool `make` to be available. Afterwards it is best to update eventually existing local images by pulling the lastest docker images. To do so run 
 
 ~~~sh
 docker compose pull
