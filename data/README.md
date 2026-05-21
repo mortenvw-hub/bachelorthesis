@@ -48,7 +48,11 @@ The collections and the mapping can be generated and updated by running:
 
 in the corresponding subdirectory. The resulting `.nt` files will be saved in the subdirectory `prepared_data` and follow the naming convention `collection$ID.nt` and `mapping1.nt`.
 
-The script `import.sh` can be used to upload all collections and the mapping to the knowledge graph at once.
+The script `import.sh` can be used to upload all collections and the mapping to the knowledge graph at once. It takes the importer API endpoint as input. For the default endpoint simply run:
+
+    bash import.sh http://localhost:5020/
+
+in this directory.
 
 ## References
 
