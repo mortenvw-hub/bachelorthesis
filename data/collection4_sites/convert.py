@@ -10,7 +10,7 @@ with open("./../prepared_data/collection4.nt", "w") as output, os.scandir('./sou
     # Go through all contents of the source directory and take data from the contained directories
     for dir in sources_dir:
         if dir.is_dir():
-            # Data is either found as sites.ttl or sitesof.ttl
+            # Data is found as sites.ttl and/or sitesof.ttl
             try:
                 with open(f"./sources/{dir.name}/sites.ttl", "r") as file:
                     # Mapping to remember old blank node id and new blank node id relation for current file
@@ -36,6 +36,8 @@ with open("./../prepared_data/collection4.nt", "w") as output, os.scandir('./sou
                         res_triple.append(".\n")
                         output.write(" ".join(res_triple))
             except:
+                pass
+            try:
                 with open(f"./sources/{dir.name}/siteof.ttl", "r") as file:
                     # Mapping to remember old blank node id and new blank node id relation for current file
                     mapping = {}
@@ -59,4 +61,6 @@ with open("./../prepared_data/collection4.nt", "w") as output, os.scandir('./sou
                         # Write triple to the output file
                         res_triple.append(".\n")
                         output.write(" ".join(res_triple))
+            except:
+                pass
 
