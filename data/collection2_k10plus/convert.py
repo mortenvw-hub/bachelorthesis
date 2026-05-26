@@ -13,7 +13,7 @@ with open("k10plus.tsv", newline='') as f:
     next(reader)
     for row in reader:
         # Skip rows with less than three or more than four columns
-        if len(row) > 4 or len(row) < 3:
+        if len(row) != 4:
             print("Invalid input format!")
             continue
         iln = Literal(f"(ILN){row[0].strip()}")
