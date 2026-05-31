@@ -12,10 +12,10 @@ WHERE{
   # Show the name from the lobid collection3
   ?lobid schema:name ?name .
   # Show ELN and ILN form the k10plus collection2
-  ?gbv schema:identifier ?id .
+  OPTIONAL { ?gbv schema:identifier ?id . }
   # Show the SRU base from the database collection1
-  ?gbv <http://purl.org/ontology/gbv/opac> [ <http://purl.org/ontology/gbv/srubase> ?sru ].
+  OPTIONAL { ?gbv <http://purl.org/ontology/gbv/opac> [ <http://purl.org/ontology/gbv/srubase> ?sru ]. }
   # Show the sites from the sites collection4
-  ?gbv w3:hasSite ?site .
+  OPTIONAL { ?gbv w3:hasSite ?site . }
 }
 GROUP BY ?name ?sru ?site

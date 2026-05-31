@@ -59,6 +59,11 @@ Feel free to use [GitHub issues](https://github.com/mortenvw-hub/bachelorthesis/
 
 This project and repository are modeled after the [NFDI4Objects Knowledge Graph](https://github.com/nfdi4objects/n4o-graph).
 
-The files in the subdirectory `dockerfiles/api/`, excluding the `dockerfiles/api/queries/` directory, were copied from [n4o-graph-apis](https://github.com/nfdi4objects/n4o-graph-apis) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `MIT_LICENSE`. These files were provided under MIT License.
+The files:
+
+- `dockerfiles/api/app.py`
+- `dockerfiles/api/static/style.css`
+
+and the complete `dockerfiles/api/templates/` directory and it´s contents were copied from [n4o-graph-apis](https://github.com/nfdi4objects/n4o-graph-apis) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `MIT_LICENSE`. These files were provided under MIT License.
 
 The file `dockerfiles/api/config.ttl` was copied from [n4o-fuseki](https://github.com/nfdi4objects/n4o-fuseki) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `APACHE_LICENSE`. These files were provided under [Apache License](http://www.apache.org/licenses/) 2.0.

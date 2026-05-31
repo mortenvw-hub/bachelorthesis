@@ -1,4 +1,4 @@
-# 4. A federated query example to connect the database to wikidata
+# 4. A federated query to wikidata to connect an institution to groupings it participates in
 
 PREFIX schema: <https://schema.org/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
@@ -6,14 +6,14 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wikibase: <http://wikiba.se/ontology#>
 PREFIX bd: <http://www.bigdata.com/rdf#>
 
-SELECT ?name ?item ?itemLabel
+SELECT ?name ?group ?groupLabel
 WHERE{
   # Get the name of the organization from the lobid collection3
   [ schema:sameAs ?organization; schema:name ?name ]
   # Get the groups the organization is part of from wikidata
   SERVICE <https://query.wikidata.org/sparql> {
-  	?organization wdt:P463 ?item .
-    BIND (?itemLabel AS ?itemLabel)
+  	?organization wdt:P463 ?group .
+    BIND (?groupLabel AS ?groupLabel)
   	SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],mul,en". } 
   }
   # Set the wikidata id of the searched organization
