@@ -2,6 +2,7 @@ services:
 
   importer:
     image: ghcr.io/nfdi4objects/n4o-graph-importer:main
+    container_name: LODatVZG-importer
     ports:
       - ${IMPORT:-5020}:5020
     volumes:
@@ -18,6 +19,7 @@ services:
 
   fuseki:
     image: ghcr.io/nfdi4objects/n4o-fuseki:main
+    container_name: LODatVZG-fuseki
     volumes:
       - ./dockerfiles/fuseki/config.ttl:/fuseki/config.ttl
     # The following lines can be uncommented to enable persistent saving of the triple store
@@ -30,6 +32,7 @@ services:
 
   apis:
     image: ghcr.io/nfdi4objects/n4o-graph-apis:main
+    container_name: LODatVZG-apis
     ports:
       - ${PORT:-8000}:8000
     volumes:
