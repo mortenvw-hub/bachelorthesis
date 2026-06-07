@@ -20,7 +20,7 @@ with open("k10plus.tsv", newline='') as f:
         eln = Literal(f"(ELN){row[1].strip()}")
         name = Literal(row[2].strip(), lang="de")
         # Check if the ISIL is valid and use a Blank node if it is not
-        if len(row) == 4 and re.match(r"^([A-Za-z0-9]{1}|[A-Z]{2}|[A-Za-z0-9]{3,4})\-[A-Za-z0-9\-/:]{1,11}$",row[3].strip()):
+        if len(row) == 4 and re.match(r"^([A-Za-z0-9]{1}|[A-Z]{2}|[A-Za-z0-9]{3,4})\-[A-Za-z0-9\-\/:]{1,11}$",row[3].strip()):
             isil = URIRef(f"http://uri.gbv.de/organization/isil/{row[3].strip()}")
         else:
             # Print invalid ISIL if it is not intenionally left empty
