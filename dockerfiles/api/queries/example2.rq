@@ -1,4 +1,4 @@
-# 3. Show the ten largest databases connect to an ISIL and their location
+# 3. Show the ten largest databases connected to an ISIL and their location
 
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX schema: <https://schema.org/>
