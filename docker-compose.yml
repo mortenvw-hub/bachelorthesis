@@ -31,7 +31,7 @@ services:
     restart: always
 
   apis:
-    image: ghcr.io/nfdi4objects/n4o-graph-apis:main
+    image: ghcr.io/nfdi4objects/n4o-graph-apis@sha256:ddcaada4f7ca21871e5480393f1868388ef45b3ba195731ccfb1a64e3f9e71fd
     container_name: LODatVZG-apis
     ports:
       - ${PORT:-8000}:8000

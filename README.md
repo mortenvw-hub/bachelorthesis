@@ -33,7 +33,7 @@ in the root directory of this repository to create the `stage` and the `data/pre
 docker compose pull
 ~~~
 
-in the same directory.
+in the same directory. `n4o-graph-apis` is used as a fixed version of the image for compability reasons. If at any point in time the need arises to use a newer version of the image, adjust the corresponding image in the `docker-compose.yml` and update the `dockerfiles/api/app.py` manually.
 
 Afterwards a new set of containers for the LOD@VZG Knowledge Graph can be started with
 
