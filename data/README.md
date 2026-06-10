@@ -5,7 +5,7 @@ This subfolder contains the collections and a mapping used in the LOD@VZG Knowle
 - GBV database directory (GBV Datenbankverzeichnis) {Collection 1}
 - K10plus participants (Teilnehmende Einrichtungen am K10plus) {Collection 2}
 - lobid-organisations: Gedächtnisinstitutionen im deutschsprachigen Raum {Collection 3}
-- Location information for GBV libraries (Standortinformationen für GBV-Bibliotheken) {Collection 4}.
+- Supplementary information of the VZG location registry (Ergänzende Informationen des VZG-Standortverzeichnis) {Collection 4}.
 
 The provided mapping is called:
 
