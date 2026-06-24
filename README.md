@@ -66,4 +66,4 @@ The files:
 
 and the complete `dockerfiles/api/templates/` directory and it´s contents were copied from [n4o-graph-apis](https://github.com/nfdi4objects/n4o-graph-apis) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `MIT_LICENSE`. These files were provided under MIT License.
 
-The file `dockerfiles/api/config.ttl` was copied from [n4o-fuseki](https://github.com/nfdi4objects/n4o-fuseki) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `APACHE_LICENSE`. These files were provided under [Apache License](http://www.apache.org/licenses/) 2.0.
+The file `dockerfiles/fuseki/config.ttl` was copied from [n4o-fuseki](https://github.com/nfdi4objects/n4o-fuseki) and modified. Additionally the license file `LICENSE` was copyed from the same repository and saved under the name `APACHE_LICENSE`. These files were provided under [Apache License](http://www.apache.org/licenses/) 2.0.
