@@ -1,18 +1,18 @@
 collection:
 	> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/fachopac?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/hb?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/nl?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/oeb?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/olcssg?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/owc?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/proj?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/rk?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/test?format=ttl" -O ->> dbs.ttl
-	wget --quiet -N "https://uri.gbv.de/database/zdb?format=ttl" -O ->> dbs.ttl
+	curl -s "https://uri.gbv.de/database/?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/fachopac?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/hb?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/nl?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/oeb?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/olcssg?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/owc?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/proj?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/rk?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/test?format=ttl" >> dbs.ttl
+	curl -s "https://uri.gbv.de/database/zdb?format=ttl" >> dbs.ttl
 
-	wget --quiet -N "https://uri.gbv.de/database/opac?format=rdfxml" -O -> dbs.rdf
+	curl -s "https://uri.gbv.de/database/opac?format=rdfxml" > dbs.rdf
 	
 	../venv/bin/python3 convert.py
 	
